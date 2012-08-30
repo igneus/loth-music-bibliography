@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE bibliography PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+          "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+
+<?xml-stylesheet type="text/xsl" href="grafika/dbbibliography.xsl"?>
+
+<bibliography>
+  <title>Roman Catholic Liturgy of the Hours - Music</title>
+  <subtitle>International Bibliography (Work in progress)</subtitle>  
+  
+  <bibliodiv>
+    <title>Official Roman Books of (Gregorian) Chant - Post-Conciliar</title>
+
+    <!--
+    <biblioentry>
+      <title></title>
+      <author><surname></surname><firstname></firstname></author>
+      <publisher>
+	<publishername></publishername>
+	<address><city></city></address>
+      </publisher>
+      <copyright>
+	<year></year>
+      </copyright>
+    </biblioentry>
+    -->
+
+    <biblioentry>
+      <title>Liber hymnarius</title>
+      <publisher>
+	<address><city>Solesmes</city></address>
+      </publisher>
+      <copyright>
+	<year>1983</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Antiphonale Romanum, t. II.</title>
+      <subtitle>Ad Vesperas in dominicis et festis</subtitle>
+      <publisher>
+	<address><city>Solesmes</city></address>
+      </publisher>
+      <copyright>
+	<year>2009</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
+  <!--
+  <bibliodiv>
+    <title>Official Roman Books of (Gregorian) Chant - Pre-Conciliar</title>
+  </bibliodiv>
+  -->
+
+  <bibliodiv>
+    <title>Other Books of Gregorian Chant</title>
+
+    <biblioentry>
+      <title>Les heures grégoriennes</title>
+      <subtitle>latin-français : office divin de la Liturgie des heures, accompagné des hymnes, antiennes &amp; répons brefs notés en chant grégorien par les soins des Bénédictins de Solesmes (3 volumes)</subtitle>
+      <publisher>
+	<publishername>Communauté Saint-Martin</publishername>
+	<address><city>Candé-sur-Beuvron</city></address>
+      </publisher>
+      <copyright>
+	<year>2008</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>
+	S. Joannis Nepomuceni Sacerdotis et Martyris 
+	ad laudes matutinas et ad vesperas
+      </title>
+      <publisher>
+	<publishername>Společnost pro duchovní hudbu</publishername>
+	<publishername>Editio sti. Ægidii</publishername>
+	<address><city>Praha</city></address>
+      </publisher>
+      <copyright>
+	<year>1993</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>Czech</title>
+
+    <biblioentry>
+      <title>Denní modlitba církve. Hymny</title>
+      <publisher>
+	<publishername></publishername>
+	<address><city>Praha</city></address>
+      </publisher>
+      <copyright>
+	<year>1989</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Denní modlitba církve. Hymny a básnické modlitby</title>
+      <publisher>
+	<publishername>Zvon</publishername>
+	<address><city>Praha</city></address>
+      </publisher>
+      <copyright>
+	<year>1993</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Kancionál</title>
+      <subtitle>Společný zpěvník českých a moravských diecézí</subtitle>
+      <authorgroup>
+	<author><surname>Simajchl</surname><firstname>Ladislav</firstname></author>
+	<author><surname>Cikrle</surname><firstname>Karel</firstname></author>
+      </authorgroup>
+      <publisher>
+	<publishername></publishername>
+	<address><city>Praha</city></address>
+      </publisher>
+      <copyright>
+	<year>1988</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Nedělní nešpory. Zpěvník</title>
+      <author><surname>Olejník</surname><firstname>Josef</firstname></author>
+      <publisher>
+	<publishername>Matice cyrilometodějská</publishername>
+	<address><city>Olomouc</city></address>
+      </publisher>
+      <copyright>
+	<year>2006</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Velikonoční graduál</title>
+      <author><surname>Olejník</surname><firstname>Josef</firstname></author>
+      <publisher>
+	<publishername>Gloria</publishername>
+	<address><city>Rosice u Brna</city></address>
+      </publisher>
+      <copyright>
+	<year>2001</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Vánoční graduál. Zpěvník</title>
+      <author><surname>Olejník</surname><firstname>Josef</firstname></author>
+      <publisher>
+	<publishername>Matice cyrilometodějská</publishername>
+	<address><city>Olomouc</city></address>
+      </publisher>
+      <copyright>
+	<year>2010</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>Slovak</title>
+
+    <biblioentry>
+      <title>Zhudobnená liturgia hodín</title>
+      <author><surname>Magulová</surname><firstname>Cecília</firstname></author>
+      <publisher>
+	<publishername>Vydavateľstvo M. Vaška</publishername>
+	<address><city>Prešov</city></address>
+      </publisher>
+      <copyright>
+	<year>1999</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Zhudobnené vešpery na nedele a sviatky</title>
+      <authorgroup>
+	<author><surname>Akimjak</surname><firstname>Amantius</firstname></author>
+	<author><surname>Adamko</surname><firstname>Rastislav</firstname></author>
+      </authorgroup>
+      <publisher>
+	<publishername>Kňazský seminár biskupa Jána Vojtaššáka Spišská Kapitula</publishername>
+	<address><city>Spišské Podhradie</city></address>
+      </publisher>
+      <copyright>
+	<year>1997</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>Polish</title>
+
+    <biblioentry>
+      <title>Wybrane hymny na jutrznię i nieszpory</title>
+      <publisher>
+	<publishername>Siostry Uczennice Boskiego Mistrza</publishername>
+      </publisher>
+      <copyright>
+	<year>2012?</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>German</title>
+
+    <biblioentry>
+      <title>Gotteslob</title>
+      <subtitle>Katholisches Gebet- und Gesangbuch</subtitle>
+      <publisher>
+	<publishername>St. Benno</publishername>
+	<address><city>Leipzig</city></address>
+      </publisher>
+      <edition>13</edition>
+      <copyright>
+	<year>2011</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Antiphonale zum Stundengebet</title>
+      <authorgroup>
+	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+	<author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
+      </authorgroup>
+      <publisher>
+	<publishername>Herder</publishername>
+	<address><city>Freiburg-Basel-Wien</city></address>
+      </publisher>
+      <edition>2</edition>
+      <copyright>
+	<year>1979</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Kleines Antiphonale zum Stundenbuch</title>
+      <author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
+      <publisher>
+	<publishername>Herder</publishername>
+	<address><city>Freiburg-Basel-Wien</city></address>
+      </publisher>
+      <copyright>
+	<year>1995</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Christuslob</title>
+      <subtitle>Das Stundengebet in der Gemeinschaft</subtitle>
+      <publisher>
+	<publishername>Herder</publishername>
+	<address><city>Freiburg-Basel-Wien</city></address>
+      </publisher>
+      <copyright>
+	<year>1980</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>English</title>
+
+    <biblioentry>
+      <title>The Mundelein Psalter</title>
+      <author><surname>Martis</surname><firstname>Douglas</firstname></author>
+      <publisher>
+	<publishername>Hillenbrand Books</publishername>
+	<address><city>Chicago</city></address>
+      </publisher>
+      <copyright>
+	<year>2007</year>
+      </copyright>
+    </biblioentry>
+    
+    <biblioentry>
+      <title>Music for Evening Prayer for Sundays, Holy Days and Feast of the Lord</title>
+      <!--The Benedictines of Stanbrook Abbey-->
+      <author><surname>Cumming</surname><firstname>Hildelith</firstname></author>
+      <publisher>
+	<publishername>Collins</publishername>
+	<address><city>London</city></address>
+      </publisher>
+      <copyright>
+	<year>1978</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+  
+</bibliography>

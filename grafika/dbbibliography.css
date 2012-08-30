@@ -1,0 +1,12 @@
+html, body {font-size: 10pt; counter-reset: section; margin: 10px 20px 20px 20px;}
+
+p, div, h1, h2, h3 {display: block;}
+
+h1, h2 {text-align: center;}
+h1 {font-size: 160%; font-weight: bold;}
+h2 {font-size: 140%; font-weight: normal;}
+h3 {font-size: 120%; font-weight: bold;}
+h3:before {content: counter(section) ". "; counter-increment: section;}
+
+span.authorsurname {text-transform: uppercase;}
+span.entrytitle {}
