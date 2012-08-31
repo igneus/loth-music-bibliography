@@ -2,6 +2,8 @@
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
+  <xsl:strip-space elements="authorgroup author"/>
+
   <xsl:template match="/">
     <html>
       <head>
@@ -54,11 +56,18 @@
     <p>
       <xsl:if test="./author">
 	<xsl:apply-templates select="author"/>
-	<xsl:text>: </xsl:text>
       </xsl:if>
 
       <xsl:if test="./authorgroup">
 	<xsl:apply-templates select="authorgroup"/>
+      </xsl:if>
+
+      <!-- only show the corporate author if there's no author-person -->
+      <xsl:if test="./corpauthor and not(./author) and not(./authorgroup)">
+	<xsl:apply-templates select="corpauthor"/>
+      </xsl:if>
+
+      <xsl:if test="./author|./authorgroup|./corpauthor">
 	<xsl:text>: </xsl:text>
       </xsl:if>
       
@@ -95,11 +104,22 @@
     </p>
   </xsl:template>
 
+  <xsl:template match="authorgroup">
+    <for-each select="./author">
+      <xsl:apply-templates/>
+      
+    </for-each>
+  </xsl:template>
+
   <xsl:template match="author">
     <span class="authorsurname"><xsl:value-of select="./surname"/></span>
     <xsl:if test="./firstname">
       <xsl:text> </xsl:text>
       <xsl:value-of select="./firstname"/>
+    </xsl:if>
+    <!-- dash between more authors in an authorgroup -->
+    <xsl:if test="position() != last()">
+      <xsl:text> - </xsl:text>
     </xsl:if>
   </xsl:template>
 
