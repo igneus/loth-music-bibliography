@@ -92,8 +92,8 @@
 
     <biblioentry>
       <title>Denní modlitba církve. Hymny</title>
+      <corpauthor>Česká liturgická komise</corpauthor>
       <publisher>
-	<publishername></publishername>
 	<address><city>Praha</city></address>
       </publisher>
       <copyright>
@@ -292,6 +292,80 @@
       </publisher>
       <copyright>
 	<year>1978</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>The Office of Compline</title>
+      <author>
+	<surname>Weber</surname>
+	<honorific>Fr.</honorific>
+	<firstname>Samuel</firstname><othername>F.</othername>
+      </author>
+      <corpauthor>Institute of Sacred Music Archdiocese of Saint Louis</corpauthor>
+      <publisher>
+	<publishername>Ignatius Press</publishername>
+	<address><city>San Francisco</city></address>
+      </publisher>
+      <copyright>
+	<year>2010</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>Dutch</title>
+
+    <biblioentry>
+      <title>Antifonen bij de lofzang van Maria en de lofzang van Zacharias van de A- B- C-zondagen door het jaar</title>
+      <authorgroup>
+	<author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
+	<author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
+      </authorgroup>
+      <publisher>
+	<address><city>Brugge</city></address>
+      </publisher>
+      <copyright>
+	<year>1992</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Antifonen en beurtzangen uit het Getijdenboek voor de tijd door het jaar</title>
+      <authorgroup>
+	<author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
+	<author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
+      </authorgroup>
+      <publisher>
+	<address><city>Brugge</city></address>
+      </publisher>
+      <copyright>
+	<year>1992</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>(single quires for Sundays and Weekdays of the Proper of Time, Proper of Saints and Commons)</title>
+      <authorgroup>
+	<author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
+	<author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
+      </authorgroup>
+      <publisher>
+	<address><city>Brugge</city></address>
+      </publisher>
+      <copyright>
+	<year>1989-2002</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Hymnarium</title>
+      <author><surname>Böhmer</surname><firstname>Jan</firstname></author>
+      <publisher>
+	<address><city>Wijchen</city></address>
+      </publisher>
+      <copyright>
+	<year>2007</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
