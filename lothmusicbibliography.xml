@@ -72,6 +72,32 @@
     </biblioentry>
 
     <biblioentry>
+      <title>Laus divina</title>
+      <subtitle>proposta per un nuovo Antifonale Romano</subtitle>
+      <author><surname>Kok</surname><firstname>Frans</firstname></author>
+      <publisher>
+	<publishername>Calithes</publishername>
+	<address><city>Colfelice</city></address>
+      </publisher>
+      <copyright>
+	<year>2010</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Liber vesperalis</title>
+      <subtitle>il canto dei vespri : inni, antifone e responsori brevi in canto gregoriano per tutte le domeniche e le feste dell'anno liturgico ; nel 14. centenario della elezione del Papa S. Gregorio Magno</subtitle>
+      <author><surname>Colino</surname><firstname>Pablo</firstname></author>
+      <publisher>
+	<publishername>Assoc. musicale "Amici dell'Organo"</publishername>
+	<address><city>Como</city></address>
+      </publisher>
+      <copyright>
+	<year>1990</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
       <title>
 	S. Joannis Nepomuceni Sacerdotis et Martyris 
 	ad laudes matutinas et ad vesperas
@@ -291,6 +317,52 @@
     </biblioentry>
 
     <biblioentry>
+      <title>Antiphonale II zum Stundengebet</title>
+      <subtitle>Lesehore</subtitle>
+      <corpauthor>Congregatio Missionalis Servarum Spiritus Sancti</corpauthor>
+      <publisher>
+	<publishername>Paderborner Druck Centrum</publishername>
+	<address><city>Paderborn</city></address>
+      </publisher>
+      <copyright>
+	<year>1988</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Trauermetten in der Karwoche</title>
+      <subtitle>Auszug aus dem Antiphonale zum Stundengebet</subtitle>
+      <authorgroup>
+	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+	<corpauthor>Liturgisches Institut Trier, Salzburg, Zürich</corpauthor>
+	<corpauthor>Abtei Münsterschwarzach</corpauthor>
+      </authorgroup>
+      <publisher>
+	<publishername>Herder</publishername>
+	<address><city>Freiburg</city></address>
+      </publisher>
+      <copyright>
+	<year>1980</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Vesperale</title>
+      <subtitle>für die Sonn- und Festtage des Kirchenjahres</subtitle>
+      <authorgroup>
+	<corpauthor>Liturgisches Institut Trier, Salzburg, Zürich</corpauthor>
+	<corpauthor>Abtei Münsterschwarzach</corpauthor>
+      </authorgroup>
+      <publisher>
+	<publishername>Herder</publishername>
+	<address><city>Freiburg</city></address>
+      </publisher>
+      <copyright>
+	<year>1989</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
       <title>Kleines Antiphonale zum Stundenbuch</title>
       <author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
       <publisher>
@@ -311,6 +383,154 @@
       </publisher>
       <copyright>
 	<year>1980</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Das Offizium der Kartage und des Ostersonntags</title>
+      <authorgroup>
+	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+	<author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
+	<author><surname>Göschl</surname><firstname>Berchmans</firstname><othername>Johannes</othername></author>
+      </authorgroup>
+      <author><surname></surname><firstname></firstname></author>
+      <publisher>
+	<publishername>Vier-Türme-Verlag</publishername>
+	<address><city>Münsterschwarzach</city></address>
+      </publisher>
+      <copyright>
+	<year>1976</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Festtagsantiphonale</title>
+      <authorgroup>
+	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+	<author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
+	<author><surname>Göschl</surname><firstname>Berchmans</firstname><othername>Johannes</othername></author>
+      </authorgroup>
+      <author><surname></surname><firstname></firstname></author>
+      <publisher>
+	<publishername>Vier-Türme-Verlag</publishername>
+	<address><city>Münsterschwarzach</city></address>
+      </publisher>
+      <copyright>
+	<year>1976</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Deutsches Psalterium</title>
+      <subtitle>für die Sonntage und Wochentage des Kirchenjahres ; zum Singen eingerichtet</subtitle>
+      <publisher>
+	<publishername>Vier-Türme-Verlag</publishername>
+	<address><city>Münsterschwarzach</city></address>
+      </publisher>
+      <copyright>
+	<year>1970</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Vespern : für die Sonn- und Festtage ; Komplet</title>
+      <authorgroup>
+	<author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
+	<author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
+      </authorgroup>
+      <publisher>
+	<publishername>Christophorus-Verlag</publishername>
+	<address><city>Freiburg im Breisgau</city></address>
+      </publisher>
+      <copyright>
+	<year>1960</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Die Magnifikat-Antiphonen der Sonntage</title>
+      <subtitle>ein Beiheft zu den Vespern für die Sonn- und Festtage</subtitle>
+      <authorgroup>
+	<author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
+	<author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
+      </authorgroup>
+      <publisher>
+	<publishername>Christophorus-Verlag</publishername>
+	<address><city>Freiburg im Breisgau</city></address>
+      </publisher>
+      <edition>3</edition>
+      <copyright>
+	<year>1965</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Laudes</title>
+      <subtitle>für die Sonn- und Festtage mit den Benedictus-Antiphonen das Jahr hindurch</subtitle>
+      <subtitle>ein Beiheft zu den Vespern für die Sonn- und Festtage</subtitle>
+      <authorgroup>
+	<author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
+	<author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
+      </authorgroup>
+      <publisher>
+	<publishername>Christophorus-Verlag</publishername>
+	<address><city>Freiburg im Breisgau</city></address>
+      </publisher>
+      <copyright>
+	<year>1967</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Franziskanisches Antiphonale</title>
+      <subtitle>für die Ordensgemeinschaften des deutschen Sprachgebietes</subtitle>
+      <corpauthor>Ordo Fratrum Minorum / Liturgische Kommission der Germanischen Zirkumskription des Minderbrüderordens</corpauthor>
+      <publisher>
+	<publishername>Herder</publishername>
+	<address><city>Freiburg im Breisgau</city></address>
+      </publisher>
+      <copyright>
+	<year>1988</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Gesänge für den Gottesdienst : Meßfeier, Mette, Vesper</title>
+      <author><surname>Kahlefeld</surname><firstname>Heinrich</firstname></author>
+      <publisher>
+	<publishername>Kösel</publishername>
+	<address><city>München</city></address>
+      </publisher>
+      <copyright>
+	<year>1961-1962 (two tomes)</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Kleines Antiphonale</title>
+      <subtitle>für Kantor, Schola, Volk</subtitle>
+      <author><surname>Kronsteiner</surname><firstname>Hermann</firstname></author>
+      <publisher>
+	<publishername>Veritas</publishername>
+	<address><city>Wien</city></address>
+      </publisher>
+      <copyright>
+	<year>1962 or later</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Proprium des Teresianischen Karmel zum Antiphonale</title>
+      <authorgroup>
+	<author><surname>Dobhan</surname><firstname>Ulrich</firstname></author>
+	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+      </authorgroup>
+      <publisher>
+	<publishername>Vier-Türme-Verlag</publishername>
+	<address><city>Münsterschwarzach</city></address>
+      </publisher>
+      <copyright>
+	<year>1999</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -414,6 +634,23 @@
       </publisher>
       <copyright>
 	<year>2007</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>French</title>
+
+    <biblioentry>
+      <title>Hymnaire noté de la liturgie des heures</title>
+      <subtitle>sélection de mélodies pour les hymnes de l'office</subtitle>
+      <author><surname>Brault</surname><firstname>Isabelle</firstname><othername>Marie</othername></author>
+      <publisher>
+	<publishername>Cerf</publishername>
+	<address><city>Paris</city></address>
+      </publisher>
+      <copyright>
+	<year>1995</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
