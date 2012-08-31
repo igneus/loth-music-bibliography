@@ -117,6 +117,10 @@
       <xsl:text> </xsl:text>
       <xsl:value-of select="./firstname"/>
     </xsl:if>
+    <xsl:if test="./othername">
+      <xsl:text> </xsl:text>
+      <xsl:value-of select="./othername"/>
+    </xsl:if>
     <!-- dash between more authors in an authorgroup -->
     <xsl:if test="position() != last()">
       <xsl:text> - </xsl:text>
