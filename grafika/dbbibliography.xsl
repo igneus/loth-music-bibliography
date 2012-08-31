@@ -36,7 +36,12 @@
   <!-- bibliodiv -->
 
   <xsl:template match="bibliodiv">
-    <xsl:apply-templates/>
+    <xsl:apply-templates select="title"/>
+
+    <xsl:for-each select="./biblioentry">
+      <xsl:sort select="copyright/year" order="descending"/>
+      <xsl:apply-templates select="."/>
+    </xsl:for-each>
   </xsl:template>
 
   <xsl:template match="bibliodiv/title">
