@@ -9,4 +9,4 @@ h3 {font-size: 120%; font-weight: bold;}
 h3:before {content: counter(section) ". "; counter-increment: section;}
 
 span.authorsurname {text-transform: uppercase;}
-span.entrytitle {}
+span.entrytitle {font-style: italic;}
