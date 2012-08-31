@@ -29,6 +29,7 @@
     <biblioentry>
       <title>Liber hymnarius</title>
       <publisher>
+	<publishername>Abbaye Saint-Pierre de Solesmes</publishername>
 	<address><city>Solesmes</city></address>
       </publisher>
       <copyright>
@@ -40,6 +41,7 @@
       <title>Antiphonale Romanum, t. II.</title>
       <subtitle>Ad Vesperas in dominicis et festis</subtitle>
       <publisher>
+	<publishername>Abbaye Saint-Pierre de Solesmes</publishername>
 	<address><city>Solesmes</city></address>
       </publisher>
       <copyright>
