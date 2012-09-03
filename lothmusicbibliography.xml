@@ -653,6 +653,18 @@
 	<year>1995</year>
       </copyright>
     </biblioentry>
+
+    <biblioentry>
+      <title>Chanter l'Office</title>
+      <author><surname>Gelineau</surname><firstname>Joseph</firstname></author>
+      <publisher>
+	<publishername>Lethielleux - Kinnor</publishername>
+	<address><city>Paris</city></address>
+      </publisher>
+      <copyright>
+	<year>2002</year>
+      </copyright>
+    </biblioentry>
   </bibliodiv>
   
 </bibliography>
