@@ -666,5 +666,64 @@
       </copyright>
     </biblioentry>
   </bibliodiv>
+
+  <bibliodiv>
+    <title>Spanish</title>
+
+    <biblioentry>
+      <title>Himnos de la liturgia de las horas</title>
+      <subtitle>Musica y letra</subtitle>
+      <author><surname>del Carmen Villar Prieto</surname><firstname>Maria</firstname></author>
+      <publisher>
+	<publishername>Edibesa</publishername>
+	<address><city>Madrid</city></address>
+      </publisher>
+      <copyright>
+	<year>2004</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Canto de la liturgia de las horas</title>
+      <isbn>9788440040589</isbn>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>Portuguese</title>
+
+    <biblioentry>
+      <title>Liturgia das Horas - Música</title>
+      <volumenum>1</volumenum>>
+      <corpauthor>CNBB</corpauthor>
+      <publisher>
+	<publishername>Editora Paulus</publishername>
+	<address><city></city></address>
+      </publisher>
+      <copyright>
+	<year>2007</year>
+      </copyright>
+      <abstract>
+	<para>
+	  What I really like about this Portuguese edition is
+	  that it is an organic part of the national official edition
+	  of the divine office.
+	</para>
+      </abstract>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Liturgia das Horas - Música</title>
+      <volumenum>2</volumenum>>
+      <corpauthor>CNBB</corpauthor>
+      <publisher>
+	<publishername>Editora Paulus</publishername>
+	<address><city></city></address>
+      </publisher>
+      <copyright>
+	<year>2011</year>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
   
 </bibliography>
