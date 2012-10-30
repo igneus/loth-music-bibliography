@@ -725,5 +725,28 @@
       </copyright>
     </biblioentry>
   </bibliodiv>
+
+  <bibliodiv>
+    <title>Italian</title>
+
+    <biblioentry>
+      <title>Melodie per il canto della Liturgia delle Ore</title>
+      <publisher>
+	<publishername>Lulu</publishername>
+	<address>
+	  <otheraddr><ulink url="http://www.lulu.com">www.lulu.com</ulink></otheraddr>
+	</address>
+      </publisher>
+      <copyright>
+	<year>2008</year>
+      </copyright>
+      <abstract>
+	<para>
+	  General psalm-tones and hymn-tones. A lot of them.
+	  Prepared for one Italian Franciscan noviciate.
+	</para>
+      </abstract>
+    </biblioentry>
+  </bibliodiv>
   
 </bibliography>
