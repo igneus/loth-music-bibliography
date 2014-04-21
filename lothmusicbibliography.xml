@@ -654,6 +654,24 @@
     <title>French</title>
 
     <biblioentry>
+      <title>Le livre des Heures de Notre-Dame</title>
+      <!-- publisher unknown <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher> -->
+      <copyright>
+        <year>2013</year>
+      </copyright>
+      <abstract>
+        <para>
+          7 volumes.
+          See <ulink url="http://www.notredamedeparis.fr/Editions-des-Heures-de-Notre-Dame">article</ulink>
+          at the website of the cathedral.
+        </para>
+      </abstract>
+    </biblioentry>
+
+    <biblioentry>
       <title>Hymnaire noté de la liturgie des heures</title>
       <subtitle>sélection de mélodies pour les hymnes de l'office</subtitle>
       <author><surname>Brault</surname><firstname>Isabelle</firstname><othername>Marie</othername></author>
