@@ -7,7 +7,7 @@
 
 <bibliography>
   <title>Roman Catholic Liturgy of the Hours - Music</title>
-  <subtitle>International Bibliography (Work in progress)</subtitle>  
+  <subtitle>International Bibliography (Work in progress)</subtitle>
   
   <bibliodiv>
     <title>Official Roman Books of (Gregorian) Chant - Post-Conciliar</title>
@@ -17,11 +17,11 @@
       <title></title>
       <author><surname></surname><firstname></firstname></author>
       <publisher>
-	<publishername></publishername>
-	<address><city></city></address>
+        <publishername></publishername>
+        <address><city></city></address>
       </publisher>
       <copyright>
-	<year></year>
+      <year></year>
       </copyright>
     </biblioentry>
     -->
@@ -29,11 +29,11 @@
     <biblioentry>
       <title>Liber hymnarius</title>
       <publisher>
-	<publishername>Abbaye Saint-Pierre de Solesmes</publishername>
-	<address><city>Solesmes</city></address>
+        <publishername>Abbaye Saint-Pierre de Solesmes</publishername>
+        <address><city>Solesmes</city></address>
       </publisher>
       <copyright>
-	<year>1983</year>
+        <year>1983</year>
       </copyright>
     </biblioentry>
 
@@ -41,19 +41,19 @@
       <title>Antiphonale Romanum, t. II.</title>
       <subtitle>Ad Vesperas in dominicis et festis</subtitle>
       <publisher>
-	<publishername>Abbaye Saint-Pierre de Solesmes</publishername>
-	<address><city>Solesmes</city></address>
+        <publishername>Abbaye Saint-Pierre de Solesmes</publishername>
+        <address><city>Solesmes</city></address>
       </publisher>
       <copyright>
-	<year>2009</year>
+        <year>2009</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
 
   <!--
-  <bibliodiv>
-    <title>Official Roman Books of (Gregorian) Chant - Pre-Conciliar</title>
-  </bibliodiv>
+      <bibliodiv>
+      <title>Official Roman Books of (Gregorian) Chant - Pre-Conciliar</title>
+      </bibliodiv>
   -->
 
   <bibliodiv>
@@ -63,11 +63,11 @@
       <title>Les heures grégoriennes</title>
       <subtitle>latin-français : office divin de la Liturgie des heures, accompagné des hymnes, antiennes &amp; répons brefs notés en chant grégorien par les soins des Bénédictins de Solesmes (3 volumes)</subtitle>
       <publisher>
-	<publishername>Communauté Saint-Martin</publishername>
-	<address><city>Candé-sur-Beuvron</city></address>
+        <publishername>Communauté Saint-Martin</publishername>
+        <address><city>Candé-sur-Beuvron</city></address>
       </publisher>
       <copyright>
-	<year>2008</year>
+        <year>2008</year>
       </copyright>
     </biblioentry>
 
@@ -76,11 +76,11 @@
       <subtitle>proposta per un nuovo Antifonale Romano</subtitle>
       <author><surname>Kok</surname><firstname>Frans</firstname></author>
       <publisher>
-	<publishername>Calithes</publishername>
-	<address><city>Colfelice</city></address>
+        <publishername>Calithes</publishername>
+        <address><city>Colfelice</city></address>
       </publisher>
       <copyright>
-	<year>2010</year>
+        <year>2010</year>
       </copyright>
     </biblioentry>
 
@@ -89,26 +89,26 @@
       <subtitle>il canto dei vespri : inni, antifone e responsori brevi in canto gregoriano per tutte le domeniche e le feste dell'anno liturgico ; nel 14. centenario della elezione del Papa S. Gregorio Magno</subtitle>
       <author><surname>Colino</surname><firstname>Pablo</firstname></author>
       <publisher>
-	<publishername>Assoc. musicale "Amici dell'Organo"</publishername>
-	<address><city>Como</city></address>
+        <publishername>Assoc. musicale "Amici dell'Organo"</publishername>
+        <address><city>Como</city></address>
       </publisher>
       <copyright>
-	<year>1990</year>
+        <year>1990</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>
-	S. Joannis Nepomuceni Sacerdotis et Martyris 
-	ad laudes matutinas et ad vesperas
+        S. Joannis Nepomuceni Sacerdotis et Martyris
+        ad laudes matutinas et ad vesperas
       </title>
       <publisher>
-	<publishername>Společnost pro duchovní hudbu</publishername>
-	<publishername>Editio sti. Ægidii</publishername>
-	<address><city>Praha</city></address>
+        <publishername>Společnost pro duchovní hudbu</publishername>
+        <publishername>Editio sti. Ægidii</publishername>
+        <address><city>Praha</city></address>
       </publisher>
       <copyright>
-	<year>1993</year>
+        <year>1993</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -120,21 +120,21 @@
       <title>Denní modlitba církve. Hymny</title>
       <corpauthor>Česká liturgická komise</corpauthor>
       <publisher>
-	<address><city>Praha</city></address>
+        <address><city>Praha</city></address>
       </publisher>
       <copyright>
-	<year>1989</year>
+        <year>1989</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Denní modlitba církve. Hymny a básnické modlitby</title>
       <publisher>
-	<publishername>Zvon</publishername>
-	<address><city>Praha</city></address>
+        <publishername>Zvon</publishername>
+        <address><city>Praha</city></address>
       </publisher>
       <copyright>
-	<year>1993</year>
+        <year>1993</year>
       </copyright>
     </biblioentry>
 
@@ -142,15 +142,15 @@
       <title>Kancionál</title>
       <subtitle>Společný zpěvník českých a moravských diecézí</subtitle>
       <authorgroup>
-	<author><surname>Simajchl</surname><firstname>Ladislav</firstname></author>
-	<author><surname>Cikrle</surname><firstname>Karel</firstname></author>
+        <author><surname>Simajchl</surname><firstname>Ladislav</firstname></author>
+        <author><surname>Cikrle</surname><firstname>Karel</firstname></author>
       </authorgroup>
       <publisher>
-	<publishername></publishername>
-	<address><city>Praha</city></address>
+        <publishername></publishername>
+        <address><city>Praha</city></address>
       </publisher>
       <copyright>
-	<year>1988</year>
+        <year>1988</year>
       </copyright>
     </biblioentry>
 
@@ -158,11 +158,11 @@
       <title>Nedělní nešpory. Zpěvník</title>
       <author><surname>Olejník</surname><firstname>Josef</firstname></author>
       <publisher>
-	<publishername>Matice cyrilometodějská</publishername>
-	<address><city>Olomouc</city></address>
+        <publishername>Matice cyrilometodějská</publishername>
+        <address><city>Olomouc</city></address>
       </publisher>
       <copyright>
-	<year>2006</year>
+        <year>2006</year>
       </copyright>
     </biblioentry>
 
@@ -170,11 +170,11 @@
       <title>Velikonoční graduál</title>
       <author><surname>Olejník</surname><firstname>Josef</firstname></author>
       <publisher>
-	<publishername>Gloria</publishername>
-	<address><city>Rosice u Brna</city></address>
+        <publishername>Gloria</publishername>
+        <address><city>Rosice u Brna</city></address>
       </publisher>
       <copyright>
-	<year>2001</year>
+        <year>2001</year>
       </copyright>
     </biblioentry>
 
@@ -182,11 +182,11 @@
       <title>Vánoční graduál. Zpěvník</title>
       <author><surname>Olejník</surname><firstname>Josef</firstname></author>
       <publisher>
-	<publishername>Matice cyrilometodějská</publishername>
-	<address><city>Olomouc</city></address>
+        <publishername>Matice cyrilometodějská</publishername>
+        <address><city>Olomouc</city></address>
       </publisher>
       <copyright>
-	<year>2010</year>
+        <year>2010</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -198,26 +198,26 @@
       <title>Zhudobnená liturgia hodín</title>
       <author><surname>Magulová</surname><firstname>Cecília</firstname></author>
       <publisher>
-	<publishername>Vydavateľstvo M. Vaška</publishername>
-	<address><city>Prešov</city></address>
+        <publishername>Vydavateľstvo M. Vaška</publishername>
+        <address><city>Prešov</city></address>
       </publisher>
       <copyright>
-	<year>1999</year>
+        <year>1999</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Zhudobnené vešpery na nedele a sviatky</title>
       <authorgroup>
-	<author><surname>Akimjak</surname><firstname>Amantius</firstname></author>
-	<author><surname>Adamko</surname><firstname>Rastislav</firstname></author>
+        <author><surname>Akimjak</surname><firstname>Amantius</firstname></author>
+        <author><surname>Adamko</surname><firstname>Rastislav</firstname></author>
       </authorgroup>
       <publisher>
-	<publishername>Kňazský seminár biskupa Jána Vojtaššáka Spišská Kapitula</publishername>
-	<address><city>Spišské Podhradie</city></address>
+        <publishername>Kňazský seminár biskupa Jána Vojtaššáka Spišská Kapitula</publishername>
+        <address><city>Spišské Podhradie</city></address>
       </publisher>
       <copyright>
-	<year>1997</year>
+        <year>1997</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -228,10 +228,10 @@
     <biblioentry>
       <title>Wybrane hymny na jutrznię i nieszpory</title>
       <publisher>
-	<publishername>Siostry Uczennice Boskiego Mistrza</publishername>
+        <publishername>Siostry Uczennice Boskiego Mistrza</publishername>
       </publisher>
       <copyright>
-	<year>2012?</year>
+        <year>2012?</year>
       </copyright>
     </biblioentry>
 
@@ -240,19 +240,19 @@
       <subtitle>pomoce dla animatora muzycznego</subtitle>
       <author><surname>Maier</surname><firstname>Elzbieta</firstname></author>
       <publisher>
-	<publishername>Wydawnictwo Światło - Życie</publishername>
-	<address><city>Kraków</city></address>
+        <publishername>Wydawnictwo Światło - Życie</publishername>
+        <address><city>Kraków</city></address>
       </publisher>
       <copyright>
-	<year>2010</year>
+        <year>2010</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Liturgia Godzin na Triduum Paschalne</title>
       <publisher>
-	<publishername>Wydawnictwo Światło-Życie</publishername>
-	<address><city>Kraków</city></address>
+        <publishername>Wydawnictwo Światło-Życie</publishername>
+        <address><city>Kraków</city></address>
       </publisher>
     </biblioentry>
 
@@ -260,25 +260,25 @@
       <title>Psallite Domino Sapienter</title>
       <subtitle>typiczne melodie do Liturgii Godzin i Mszy świętej</subtitle>
       <authorgroup>
-	<author><surname>Waloszek</surname><firstname>Joachim</firstname></author>
-	<author><surname>Kozak</surname><firstname>Adam</firstname></author>
+        <author><surname>Waloszek</surname><firstname>Joachim</firstname></author>
+        <author><surname>Kozak</surname><firstname>Adam</firstname></author>
       </authorgroup>
       <publisher>
-	<publishername>Wydaw. Świętego Krzyża</publishername>
-	<address><city>Opole</city></address>
+        <publishername>Wydaw. Świętego Krzyża</publishername>
+        <address><city>Opole</city></address>
       </publisher>
       <edition>3</edition>
       <copyright>
-	<year>2004</year>
+        <year>2004</year>
       </copyright>
       <abstract>
-	<para>
-	  Collection of chants for the mass as well as divine office.
-	  Two more tomes are available: organ accompaniment
-	  and "wersja chorałowa" - the name suggests a "choir (or chant?) 
-	  version",
-	  but the descriptions I have seen so far are a bit confusing.
-	</para>
+        <para>
+          Collection of chants for the mass as well as divine office.
+          Two more tomes are available: organ accompaniment
+          and "wersja chorałowa" - the name suggests a "choir (or chant?)
+          version",
+          but the descriptions I have seen so far are a bit confusing.
+        </para>
       </abstract>
     </biblioentry>
 
@@ -291,28 +291,28 @@
       <title>Gotteslob</title>
       <subtitle>Katholisches Gebet- und Gesangbuch</subtitle>
       <publisher>
-	<publishername>St. Benno</publishername>
-	<address><city>Leipzig</city></address>
+        <publishername>St. Benno</publishername>
+        <address><city>Leipzig</city></address>
       </publisher>
       <edition>13</edition>
       <copyright>
-	<year>2011</year>
+        <year>2011</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Antiphonale zum Stundengebet</title>
       <authorgroup>
-	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
-	<author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
+        <author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+        <author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
       </authorgroup>
       <publisher>
-	<publishername>Herder</publishername>
-	<address><city>Freiburg-Basel-Wien</city></address>
+        <publishername>Herder</publishername>
+        <address><city>Freiburg-Basel-Wien</city></address>
       </publisher>
       <edition>2</edition>
       <copyright>
-	<year>1979</year>
+        <year>1979</year>
       </copyright>
     </biblioentry>
 
@@ -321,11 +321,11 @@
       <subtitle>Lesehore</subtitle>
       <corpauthor>Congregatio Missionalis Servarum Spiritus Sancti</corpauthor>
       <publisher>
-	<publishername>Paderborner Druck Centrum</publishername>
-	<address><city>Paderborn</city></address>
+        <publishername>Paderborner Druck Centrum</publishername>
+        <address><city>Paderborn</city></address>
       </publisher>
       <copyright>
-	<year>1988</year>
+        <year>1988</year>
       </copyright>
     </biblioentry>
 
@@ -333,16 +333,16 @@
       <title>Trauermetten in der Karwoche</title>
       <subtitle>Auszug aus dem Antiphonale zum Stundengebet</subtitle>
       <authorgroup>
-	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
-	<corpauthor>Liturgisches Institut Trier, Salzburg, Zürich</corpauthor>
-	<corpauthor>Abtei Münsterschwarzach</corpauthor>
+        <author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+        <corpauthor>Liturgisches Institut Trier, Salzburg, Zürich</corpauthor>
+        <corpauthor>Abtei Münsterschwarzach</corpauthor>
       </authorgroup>
       <publisher>
-	<publishername>Herder</publishername>
-	<address><city>Freiburg</city></address>
+        <publishername>Herder</publishername>
+        <address><city>Freiburg</city></address>
       </publisher>
       <copyright>
-	<year>1980</year>
+        <year>1980</year>
       </copyright>
     </biblioentry>
 
@@ -350,15 +350,15 @@
       <title>Vesperale</title>
       <subtitle>für die Sonn- und Festtage des Kirchenjahres</subtitle>
       <authorgroup>
-	<corpauthor>Liturgisches Institut Trier, Salzburg, Zürich</corpauthor>
-	<corpauthor>Abtei Münsterschwarzach</corpauthor>
+        <corpauthor>Liturgisches Institut Trier, Salzburg, Zürich</corpauthor>
+        <corpauthor>Abtei Münsterschwarzach</corpauthor>
       </authorgroup>
       <publisher>
-	<publishername>Herder</publishername>
-	<address><city>Freiburg</city></address>
+        <publishername>Herder</publishername>
+        <address><city>Freiburg</city></address>
       </publisher>
       <copyright>
-	<year>1989</year>
+        <year>1989</year>
       </copyright>
     </biblioentry>
 
@@ -366,11 +366,11 @@
       <title>Kleines Antiphonale zum Stundenbuch</title>
       <author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
       <publisher>
-	<publishername>Herder</publishername>
-	<address><city>Freiburg-Basel-Wien</city></address>
+        <publishername>Herder</publishername>
+        <address><city>Freiburg-Basel-Wien</city></address>
       </publisher>
       <copyright>
-	<year>1995</year>
+        <year>1995</year>
       </copyright>
     </biblioentry>
 
@@ -378,45 +378,45 @@
       <title>Christuslob</title>
       <subtitle>Das Stundengebet in der Gemeinschaft</subtitle>
       <publisher>
-	<publishername>Herder</publishername>
-	<address><city>Freiburg-Basel-Wien</city></address>
+        <publishername>Herder</publishername>
+        <address><city>Freiburg-Basel-Wien</city></address>
       </publisher>
       <copyright>
-	<year>1980</year>
+        <year>1980</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Das Offizium der Kartage und des Ostersonntags</title>
       <authorgroup>
-	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
-	<author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
-	<author><surname>Göschl</surname><firstname>Berchmans</firstname><othername>Johannes</othername></author>
+        <author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+        <author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
+        <author><surname>Göschl</surname><firstname>Berchmans</firstname><othername>Johannes</othername></author>
       </authorgroup>
       <author><surname></surname><firstname></firstname></author>
       <publisher>
-	<publishername>Vier-Türme-Verlag</publishername>
-	<address><city>Münsterschwarzach</city></address>
+        <publishername>Vier-Türme-Verlag</publishername>
+        <address><city>Münsterschwarzach</city></address>
       </publisher>
       <copyright>
-	<year>1976</year>
+        <year>1976</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Festtagsantiphonale</title>
       <authorgroup>
-	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
-	<author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
-	<author><surname>Göschl</surname><firstname>Berchmans</firstname><othername>Johannes</othername></author>
+        <author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+        <author><surname>Erbacher</surname><firstname>Rhabanus</firstname></author>
+        <author><surname>Göschl</surname><firstname>Berchmans</firstname><othername>Johannes</othername></author>
       </authorgroup>
       <author><surname></surname><firstname></firstname></author>
       <publisher>
-	<publishername>Vier-Türme-Verlag</publishername>
-	<address><city>Münsterschwarzach</city></address>
+        <publishername>Vier-Türme-Verlag</publishername>
+        <address><city>Münsterschwarzach</city></address>
       </publisher>
       <copyright>
-	<year>1976</year>
+        <year>1976</year>
       </copyright>
     </biblioentry>
 
@@ -424,26 +424,26 @@
       <title>Deutsches Psalterium</title>
       <subtitle>für die Sonntage und Wochentage des Kirchenjahres ; zum Singen eingerichtet</subtitle>
       <publisher>
-	<publishername>Vier-Türme-Verlag</publishername>
-	<address><city>Münsterschwarzach</city></address>
+        <publishername>Vier-Türme-Verlag</publishername>
+        <address><city>Münsterschwarzach</city></address>
       </publisher>
       <copyright>
-	<year>1970</year>
+        <year>1970</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Vespern : für die Sonn- und Festtage ; Komplet</title>
       <authorgroup>
-	<author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
-	<author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
+        <author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
+        <author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
       </authorgroup>
       <publisher>
-	<publishername>Christophorus-Verlag</publishername>
-	<address><city>Freiburg im Breisgau</city></address>
+        <publishername>Christophorus-Verlag</publishername>
+        <address><city>Freiburg im Breisgau</city></address>
       </publisher>
       <copyright>
-	<year>1960</year>
+        <year>1960</year>
       </copyright>
     </biblioentry>
 
@@ -451,16 +451,16 @@
       <title>Die Magnifikat-Antiphonen der Sonntage</title>
       <subtitle>ein Beiheft zu den Vespern für die Sonn- und Festtage</subtitle>
       <authorgroup>
-	<author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
-	<author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
+        <author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
+        <author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
       </authorgroup>
       <publisher>
-	<publishername>Christophorus-Verlag</publishername>
-	<address><city>Freiburg im Breisgau</city></address>
+        <publishername>Christophorus-Verlag</publishername>
+        <address><city>Freiburg im Breisgau</city></address>
       </publisher>
       <edition>3</edition>
       <copyright>
-	<year>1965</year>
+        <year>1965</year>
       </copyright>
     </biblioentry>
 
@@ -469,15 +469,15 @@
       <subtitle>für die Sonn- und Festtage mit den Benedictus-Antiphonen das Jahr hindurch</subtitle>
       <subtitle>ein Beiheft zu den Vespern für die Sonn- und Festtage</subtitle>
       <authorgroup>
-	<author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
-	<author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
+        <author><surname>Fleischmann</surname><firstname>Hildebrand</firstname></author>
+        <author><surname>Rohr</surname><firstname>Heinrich</firstname></author>
       </authorgroup>
       <publisher>
-	<publishername>Christophorus-Verlag</publishername>
-	<address><city>Freiburg im Breisgau</city></address>
+        <publishername>Christophorus-Verlag</publishername>
+        <address><city>Freiburg im Breisgau</city></address>
       </publisher>
       <copyright>
-	<year>1967</year>
+        <year>1967</year>
       </copyright>
     </biblioentry>
 
@@ -486,11 +486,11 @@
       <subtitle>für die Ordensgemeinschaften des deutschen Sprachgebietes</subtitle>
       <corpauthor>Ordo Fratrum Minorum / Liturgische Kommission der Germanischen Zirkumskription des Minderbrüderordens</corpauthor>
       <publisher>
-	<publishername>Herder</publishername>
-	<address><city>Freiburg im Breisgau</city></address>
+        <publishername>Herder</publishername>
+        <address><city>Freiburg im Breisgau</city></address>
       </publisher>
       <copyright>
-	<year>1988</year>
+        <year>1988</year>
       </copyright>
     </biblioentry>
 
@@ -498,11 +498,11 @@
       <title>Gesänge für den Gottesdienst : Meßfeier, Mette, Vesper</title>
       <author><surname>Kahlefeld</surname><firstname>Heinrich</firstname></author>
       <publisher>
-	<publishername>Kösel</publishername>
-	<address><city>München</city></address>
+        <publishername>Kösel</publishername>
+        <address><city>München</city></address>
       </publisher>
       <copyright>
-	<year>1961-1962 (two tomes)</year>
+        <year>1961-1962 (two tomes)</year>
       </copyright>
     </biblioentry>
 
@@ -511,26 +511,26 @@
       <subtitle>für Kantor, Schola, Volk</subtitle>
       <author><surname>Kronsteiner</surname><firstname>Hermann</firstname></author>
       <publisher>
-	<publishername>Veritas</publishername>
-	<address><city>Wien</city></address>
+        <publishername>Veritas</publishername>
+        <address><city>Wien</city></address>
       </publisher>
       <copyright>
-	<year>1962 or later</year>
+        <year>1962 or later</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Proprium des Teresianischen Karmel zum Antiphonale</title>
       <authorgroup>
-	<author><surname>Dobhan</surname><firstname>Ulrich</firstname></author>
-	<author><surname>Joppich</surname><firstname>Godehard</firstname></author>
+        <author><surname>Dobhan</surname><firstname>Ulrich</firstname></author>
+        <author><surname>Joppich</surname><firstname>Godehard</firstname></author>
       </authorgroup>
       <publisher>
-	<publishername>Vier-Türme-Verlag</publishername>
-	<address><city>Münsterschwarzach</city></address>
+        <publishername>Vier-Türme-Verlag</publishername>
+        <address><city>Münsterschwarzach</city></address>
       </publisher>
       <copyright>
-	<year>1999</year>
+        <year>1999</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -542,11 +542,11 @@
       <title>The Mundelein Psalter</title>
       <author><surname>Martis</surname><firstname>Douglas</firstname></author>
       <publisher>
-	<publishername>Hillenbrand Books</publishername>
-	<address><city>Chicago</city></address>
+        <publishername>Hillenbrand Books</publishername>
+        <address><city>Chicago</city></address>
       </publisher>
       <copyright>
-	<year>2007</year>
+        <year>2007</year>
       </copyright>
     </biblioentry>
     
@@ -555,28 +555,28 @@
       <!--The Benedictines of Stanbrook Abbey-->
       <author><surname>Cumming</surname><firstname>Hildelith</firstname></author>
       <publisher>
-	<publishername>Collins</publishername>
-	<address><city>London</city></address>
+        <publishername>Collins</publishername>
+        <address><city>London</city></address>
       </publisher>
       <copyright>
-	<year>1978</year>
+        <year>1978</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>The Office of Compline</title>
       <author>
-	<surname>Weber</surname>
-	<honorific>Fr.</honorific>
-	<firstname>Samuel</firstname><othername>F.</othername>
+        <surname>Weber</surname>
+        <honorific>Fr.</honorific>
+        <firstname>Samuel</firstname><othername>F.</othername>
       </author>
       <corpauthor>Institute of Sacred Music Archdiocese of Saint Louis</corpauthor>
       <publisher>
-	<publishername>Ignatius Press</publishername>
-	<address><city>San Francisco</city></address>
+        <publishername>Ignatius Press</publishername>
+        <address><city>San Francisco</city></address>
       </publisher>
       <copyright>
-	<year>2010</year>
+        <year>2010</year>
       </copyright>
     </biblioentry>
 
@@ -584,11 +584,11 @@
       <title>Hymns for Prayer and Praise</title>
       <author><surname>Harper</surname><firstname>John</firstname></author>
       <publisher>
-	<publishername>Canterbury Press</publishername>
-	<address><city>Norwich</city></address>
+        <publishername>Canterbury Press</publishername>
+        <address><city>Norwich</city></address>
       </publisher>
       <copyright>
-	<year>2011</year>
+        <year>2011</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -599,42 +599,42 @@
     <biblioentry>
       <title>Antifonen bij de lofzang van Maria en de lofzang van Zacharias van de A- B- C-zondagen door het jaar</title>
       <authorgroup>
-	<author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
-	<author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
+        <author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
+        <author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
       </authorgroup>
       <publisher>
-	<address><city>Brugge</city></address>
+        <address><city>Brugge</city></address>
       </publisher>
       <copyright>
-	<year>1992</year>
+        <year>1992</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>Antifonen en beurtzangen uit het Getijdenboek voor de tijd door het jaar</title>
       <authorgroup>
-	<author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
-	<author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
+        <author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
+        <author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
       </authorgroup>
       <publisher>
-	<address><city>Brugge</city></address>
+        <address><city>Brugge</city></address>
       </publisher>
       <copyright>
-	<year>1992</year>
+        <year>1992</year>
       </copyright>
     </biblioentry>
 
     <biblioentry>
       <title>(single quires for Sundays and Weekdays of the Proper of Time, Proper of Saints and Commons)</title>
       <authorgroup>
-	<author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
-	<author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
+        <author><surname>de Sutter</surname><firstname>Ignace</firstname></author>
+        <author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
       </authorgroup>
       <publisher>
-	<address><city>Brugge</city></address>
+        <address><city>Brugge</city></address>
       </publisher>
       <copyright>
-	<year>1989-2002</year>
+        <year>1989-2002</year>
       </copyright>
     </biblioentry>
 
@@ -642,10 +642,10 @@
       <title>Hymnarium</title>
       <author><surname>Böhmer</surname><firstname>Jan</firstname></author>
       <publisher>
-	<address><city>Wijchen</city></address>
+        <address><city>Wijchen</city></address>
       </publisher>
       <copyright>
-	<year>2007</year>
+        <year>2007</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -658,11 +658,11 @@
       <subtitle>sélection de mélodies pour les hymnes de l'office</subtitle>
       <author><surname>Brault</surname><firstname>Isabelle</firstname><othername>Marie</othername></author>
       <publisher>
-	<publishername>Cerf</publishername>
-	<address><city>Paris</city></address>
+        <publishername>Cerf</publishername>
+        <address><city>Paris</city></address>
       </publisher>
       <copyright>
-	<year>1995</year>
+        <year>1995</year>
       </copyright>
     </biblioentry>
 
@@ -670,11 +670,11 @@
       <title>Chanter l'Office</title>
       <author><surname>Gelineau</surname><firstname>Joseph</firstname></author>
       <publisher>
-	<publishername>Lethielleux - Kinnor</publishername>
-	<address><city>Paris</city></address>
+        <publishername>Lethielleux - Kinnor</publishername>
+        <address><city>Paris</city></address>
       </publisher>
       <copyright>
-	<year>2002</year>
+        <year>2002</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -687,11 +687,11 @@
       <subtitle>Musica y letra</subtitle>
       <author><surname>del Carmen Villar Prieto</surname><firstname>Maria</firstname></author>
       <publisher>
-	<publishername>Edibesa</publishername>
-	<address><city>Madrid</city></address>
+        <publishername>Edibesa</publishername>
+        <address><city>Madrid</city></address>
       </publisher>
       <copyright>
-	<year>2004</year>
+        <year>2004</year>
       </copyright>
     </biblioentry>
 
@@ -709,18 +709,18 @@
       <volumenum>1</volumenum>>
       <corpauthor>CNBB</corpauthor>
       <publisher>
-	<publishername>Editora Paulus</publishername>
-	<address><city></city></address>
+        <publishername>Editora Paulus</publishername>
+        <address><city></city></address>
       </publisher>
       <copyright>
-	<year>2007</year>
+        <year>2007</year>
       </copyright>
       <abstract>
-	<para>
-	  What I really like about this Portuguese edition is
-	  that it is an organic part of the national official edition
-	  of the divine office.
-	</para>
+        <para>
+          What I really like about this Portuguese edition is
+          that it is an organic part of the national official edition
+          of the divine office.
+        </para>
       </abstract>
     </biblioentry>
 
@@ -729,11 +729,11 @@
       <volumenum>2</volumenum>>
       <corpauthor>CNBB</corpauthor>
       <publisher>
-	<publishername>Editora Paulus</publishername>
-	<address><city></city></address>
+        <publishername>Editora Paulus</publishername>
+        <address><city></city></address>
       </publisher>
       <copyright>
-	<year>2011</year>
+        <year>2011</year>
       </copyright>
     </biblioentry>
   </bibliodiv>
@@ -744,21 +744,21 @@
     <biblioentry>
       <title>Melodie per il canto della Liturgia delle Ore</title>
       <publisher>
-	<publishername>Lulu</publishername>
-	<address>
-	  <otheraddr><ulink url="http://www.lulu.com">www.lulu.com</ulink></otheraddr>
-	</address>
+        <publishername>Lulu</publishername>
+        <address>
+          <otheraddr><ulink url="http://www.lulu.com">www.lulu.com</ulink></otheraddr>
+        </address>
       </publisher>
       <copyright>
-	<year>2008</year>
+        <year>2008</year>
       </copyright>
       <abstract>
-	<para>
-	  General psalm-tones and hymn-tones. A lot of them.
-	  Prepared for one Italian Franciscan noviciate.
-	</para>
+        <para>
+          General psalm-tones and hymn-tones. A lot of them.
+          Prepared for one Italian Franciscan noviciate.
+        </para>
       </abstract>
     </biblioentry>
   </bibliodiv>
-  
+
 </bibliography>
