@@ -32,7 +32,12 @@
   </xsl:template>
 
   <xsl:template match="bibliography">
-    <xsl:apply-templates select="bibliodiv|biblioentry"/>
+    <xsl:copy>
+      <xsl:apply-templates select="bibliodiv">
+        <xsl:sort select="contains(title, 'Gregorian')" order="descending"/>
+        <xsl:sort select="title" order="ascending"/>
+      </xsl:apply-templates>
+    </xsl:copy>
   </xsl:template>
 
   <!-- bibliodiv -->
