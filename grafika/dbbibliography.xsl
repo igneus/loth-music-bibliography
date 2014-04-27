@@ -7,16 +7,16 @@
   <xsl:template match="/">
     <html>
       <head>
-	<title><xsl:value-of select="bibliography/title"/></title>
-	<link rel="stylesheet" type="text/css" href="grafika/dbbibliography.css"/>
+        <title><xsl:value-of select="bibliography/title"/></title>
+        <link rel="stylesheet" type="text/css" href="grafika/dbbibliography.css"/>
       </head>
 
       <body>
-	<xsl:apply-templates select="bibliography/title"/>
-	<xsl:apply-templates select="bibliography/subtitle"/>
-	<hr/>
+        <xsl:apply-templates select="bibliography/title"/>
+        <xsl:apply-templates select="bibliography/subtitle"/>
+        <hr/>
 
-	<xsl:apply-templates select="bibliography"/>
+        <xsl:apply-templates select="bibliography"/>
       </body>
     </html>
   </xsl:template>
@@ -55,49 +55,49 @@
   <xsl:template match="biblioentry">
     <p>
       <xsl:if test="./author">
-	<xsl:apply-templates select="author"/>
+        <xsl:apply-templates select="author"/>
       </xsl:if>
 
       <xsl:if test="./authorgroup">
-	<xsl:apply-templates select="authorgroup"/>
+        <xsl:apply-templates select="authorgroup"/>
       </xsl:if>
 
       <!-- only show the corporate author if there's no author-person -->
       <xsl:if test="./corpauthor and not(./author) and not(./authorgroup)">
-	<xsl:apply-templates select="corpauthor"/>
+        <xsl:apply-templates select="corpauthor"/>
       </xsl:if>
 
       <xsl:if test="./author|./authorgroup|./corpauthor">
-	<xsl:text>: </xsl:text>
+        <xsl:text>: </xsl:text>
       </xsl:if>
       
       <span class="entrytitle">
-	<xsl:apply-templates select="title"/>
-	<xsl:if test="./subtitle">
-	  <xsl:text>. </xsl:text>
-	  <xsl:apply-templates select="subtitle"/>
-	</xsl:if>
+        <xsl:apply-templates select="title"/>
+        <xsl:if test="./subtitle">
+          <xsl:text>. </xsl:text>
+          <xsl:apply-templates select="subtitle"/>
+        </xsl:if>
       </span>
 
       <xsl:if test="./publisher | ./copyright">
-	<xsl:text>, </xsl:text>
+        <xsl:text>, </xsl:text>
       </xsl:if>
 
       <xsl:if test="./publisher">
-	<xsl:if test="./publisher/address/city">
-	  <xsl:value-of select="./publisher/address/city"/>
-	  <xsl:if test="./publisher/publishername">
-	    <xsl:text>: </xsl:text>
-	  </xsl:if>
-	</xsl:if>
-	<xsl:if test="./publisher/publishername">
-	  <xsl:value-of select="./publisher/publishername"/>
-	</xsl:if>
+        <xsl:if test="./publisher/address/city">
+          <xsl:value-of select="./publisher/address/city"/>
+          <xsl:if test="./publisher/publishername">
+            <xsl:text>: </xsl:text>
+          </xsl:if>
+        </xsl:if>
+        <xsl:if test="./publisher/publishername">
+          <xsl:value-of select="./publisher/publishername"/>
+        </xsl:if>
       </xsl:if>
 
       <xsl:if test="./copyright">
-	<xsl:text> </xsl:text>
-	<xsl:value-of select="./copyright/year"/>
+        <xsl:text> </xsl:text>
+        <xsl:value-of select="./copyright/year"/>
       </xsl:if>
 
       <xsl:text>.</xsl:text>
