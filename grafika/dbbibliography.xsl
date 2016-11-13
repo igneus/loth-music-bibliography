@@ -67,12 +67,16 @@
         <xsl:apply-templates select="authorgroup"/>
       </xsl:if>
 
+      <xsl:if test="./editor">
+        <xsl:apply-templates select="editor"/>
+      </xsl:if>
+
       <!-- only show the corporate author if there's no author-person -->
       <xsl:if test="./corpauthor and not(./author) and not(./authorgroup)">
         <xsl:apply-templates select="corpauthor"/>
       </xsl:if>
 
-      <xsl:if test="./author|./authorgroup|./corpauthor">
+      <xsl:if test="./author|./authorgroup|./editor|./corpauthor">
         <xsl:text>: </xsl:text>
       </xsl:if>
       
@@ -116,7 +120,7 @@
     </for-each>
   </xsl:template>
 
-  <xsl:template match="author">
+  <xsl:template match="author|editor">
     <span class="authorsurname"><xsl:value-of select="./surname"/></span>
     <xsl:if test="./firstname">
       <xsl:text> </xsl:text>
