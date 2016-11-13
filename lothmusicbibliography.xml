@@ -606,6 +606,27 @@
         <year>2011</year>
       </copyright>
     </biblioentry>
+
+    <biblioentry>
+      <title>Parish Sunday vespers</title>
+      <subtitle>evening prayer with benediction for parishes</subtitle>
+      <editor><surname>Beattie</surname><firstname>Michael</firstname></editor>
+      <publisher>
+        <publishername>Collins</publishername>
+        <address><city>London</city></address>
+      </publisher>
+      <copyright>
+      <year>1982</year>
+      </copyright>
+      <biblioid class="isbn">0005996996</biblioid>
+      <abstract>
+        <para>
+          Service book for Sunday vespers.
+          Arrangements for congregation and organ.
+          English words.
+        </para>
+      </abstract>
+    </biblioentry>
   </bibliodiv>
 
   <bibliodiv>
