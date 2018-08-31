@@ -8,7 +8,7 @@
 <bibliography>
   <title>Roman Catholic Liturgy of the Hours - Music</title>
   <subtitle>International Bibliography (Work in progress)</subtitle>
-  
+
   <bibliodiv>
     <title>Official Roman Books of (Gregorian) Chant - Post-Conciliar</title>
 
@@ -22,6 +22,8 @@
       </publisher>
       <copyright>
       <year></year>
+      <isbn></isbn>
+      <pagenums></pagenums>
       </copyright>
     </biblioentry>
     -->
@@ -578,7 +580,7 @@
         <year>2007</year>
       </copyright>
     </biblioentry>
-    
+
     <biblioentry>
       <title>Music for Evening Prayer for Sundays, Holy Days and Feast of the Lord</title>
       <!--The Benedictines of Stanbrook Abbey-->
@@ -802,6 +804,110 @@
       </publisher>
       <copyright>
         <year>2011</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Liturgia das Horas – Edição para canto – I</title>
+      <subtitle>Tempo Comum</subtitle>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <copyright>
+        <year></year>
+        <isbn></isbn>
+      </copyright>
+      <isbn>972-8286-29-5</isbn>
+      <pagenums>488</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Liturgia das Horas – Edição para canto – II</title>
+      <subtitle>Adv. Nat.,Quar. Pásc.</subtitle>
+      <author><surname></surname><firstname></firstname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <copyright>
+        <year></year>
+        <isbn>972-8286-67-8</isbn>
+        <pagenums>768</pagenums>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Liturgia das Horas – Edição para canto – III</title>
+      <subtitle>Santoral e Comuns</subtitle>
+      <author><surname></surname><firstname></firstname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <copyright>
+        <year></year>
+        <isbn>978-989-8293-22-0</isbn>
+        <pagenums>640</pagenums>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Liturgia das Horas – Tríduo Pascal</title>
+      <author><surname>Ferreira dos Santos</surname><firstname>António</firstname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <copyright>
+        <year></year>
+        <isbn>978-972-8286-72-9</isbn>
+        <pagenums>64</pagenums>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Canto Perene – I</title>
+      <subtitle>Adv. Nat., Quar., Páscoa</subtitle>
+      <author><surname>Ferreira dos Santos</surname><firstname>António</firstname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <copyright>
+        <year></year>
+        <isbn>972-8286-77-5</isbn>
+        <pagenums>656</pagenums>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Canto Perene – II</title>
+      <subtitle>Tempo Comum – ofício dominical</subtitle>
+      <author><surname>Ferreira dos Santos</surname><firstname>António</firstname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <copyright>
+        <year></year>
+        <isbn>972-8286-70-8</isbn>
+        <pagenums>480</pagenums>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Canto Perene – III</title>
+      <subtitle>Solenidades e festas do Senhor</subtitle>
+      <author><surname>Ferreira dos Santos</surname><firstname>António</firstname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <copyright>
+        <year></year>
+        <isbn>978-972-8286-93-4</isbn>
+        <pagenums>512</pagenums>
       </copyright>
     </biblioentry>
   </bibliodiv>
