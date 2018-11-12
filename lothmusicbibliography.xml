@@ -1148,6 +1148,32 @@
         </para>
       </abstract>
     </biblioentry>
+
+    <biblioentry>
+      <title>Lodi, vespri e compieta</title>
+      <subtitle>prima settimana del Salterio</subtitle>
+      <author><surname>De Stefanis</surname><firstname>Dante</firstname></author>
+      <publisher>
+        <publishername>Centro azione liturgica</publishername>
+        <address><city>Padova</city></address>
+      </publisher>
+      <copyright>
+        <year>1973</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Canto di lode</title>
+      <subtitle>lodi, vespri : ora media, compieta</subtitle>
+      <author><surname>De Stefanis</surname><firstname>Dante</firstname></author>
+      <publisher>
+        <publishername>EMP</publishername>
+        <address><city>Padova</city></address>
+      </publisher>
+      <copyright>
+        <year>1973</year>
+      </copyright>
+    </biblioentry>
   </bibliodiv>
 
 </bibliography>
