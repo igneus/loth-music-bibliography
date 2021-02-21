@@ -100,6 +100,23 @@
     </biblioentry>
 
     <biblioentry>
+      <title>Vespri e compieta della domenica e di alcune festività in canto Gregoriano secondo la Liturgia horarum del rito Romano</title>
+      <subtitle>Testo Latino-Italiano</subtitle>
+      <author><surname>Papinutti</surname><firstname>Emidio</firstname></author>
+      <author><surname>Colino</surname><firstname>Pablo</firstname></author>
+      <author><surname>Golin</surname><firstname>Giorgio</firstname></author>
+      <publisher>
+        <publishername>Edizioni Urban</publishername>
+        <address><city>Saronno</city></address>
+      </publisher>
+      <copyright>
+      <year>1997</year>
+      <!--<isbn></isbn>-->
+      <pagenums>182</pagenums>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
       <title>
         S. Joannis Nepomuceni Sacerdotis et Martyris
         ad laudes matutinas et ad vesperas
