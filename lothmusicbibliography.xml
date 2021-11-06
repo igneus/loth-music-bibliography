@@ -790,6 +790,49 @@
     <title>Spanish</title>
 
     <biblioentry>
+      <title>El canto de la liturgia de las horas</title>
+      <subtitle>textos musicalizados del ordinario y del salterio distribuido en cuatro semanas laudes, hora intermedia, vispera, completas</subtitle>
+      <isbn>8440013639</isbn>
+      <publisher>
+        <publishername>Secretariado Nacional de Liturgia</publishername>
+        <address><city>Madrid</city></address>
+      </publisher>
+      <copyright>
+        <year>1976</year>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Celebración cantada de la Liturgia de las Horas</title>
+      <subtitle>laudes y vísperas</subtitle>
+      <author><surname>Cols</surname><firstname>Domingo</firstname></author>
+      <publisher>
+        <publishername>Regina</publishername>
+        <address><city>Barcelona</city></address>
+      </publisher>
+      <copyright>
+      <year>1977</year>
+      <isbn>8471290332</isbn>
+      <pagenums>432</pagenums>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Celebración cantada de la liturgia de las horas, 2</title>
+      <subtitle>Cuaresma: laudes y vísperas dominicales</subtitle>
+      <author><surname>Cols</surname><firstname>Domingo</firstname></author>
+      <publisher>
+        <publishername>Regina</publishername>
+        <address><city>Barcelona</city></address>
+      </publisher>
+      <copyright>
+      <year>1977</year>
+      <isbn>8471290499</isbn>
+      <pagenums>57</pagenums>
+      </copyright>
+    </biblioentry>
+
+    <biblioentry>
       <title>Himnos de la liturgia de las horas</title>
       <subtitle>Musica y letra</subtitle>
       <author><surname>del Carmen Villar Prieto</surname><firstname>Maria</firstname></author>
@@ -800,11 +843,6 @@
       <copyright>
         <year>2004</year>
       </copyright>
-    </biblioentry>
-
-    <biblioentry>
-      <title>Canto de la liturgia de las horas</title>
-      <isbn>9788440040589</isbn>
     </biblioentry>
   </bibliodiv>
 
