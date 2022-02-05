@@ -1,6 +1,7 @@
 XML=lothmusicbibliography.xml
+SCHEMA=https://docbook.org/xml/5.0/rng/docbook.rng
 
 all: validate
 
 validate:
-	xmllint --valid --noout $(XML)
+	jing $(SCHEMA) $(XML)
