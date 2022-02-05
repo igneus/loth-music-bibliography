@@ -46,7 +46,7 @@
     <xsl:apply-templates select="title"/>
 
     <xsl:for-each select="./biblioentry">
-      <xsl:sort select="copyright/year" order="descending"/>
+      <xsl:sort select="pubdate" order="descending"/>
       <xsl:apply-templates select="."/>
     </xsl:for-each>
   </xsl:template>
@@ -88,7 +88,7 @@
         </xsl:if>
       </span>
 
-      <xsl:if test="./publisher | ./copyright">
+      <xsl:if test="./publisher | ./pubdate">
         <xsl:text>, </xsl:text>
       </xsl:if>
 
@@ -104,9 +104,9 @@
         </xsl:if>
       </xsl:if>
 
-      <xsl:if test="./copyright">
+      <xsl:if test="./pubdate">
         <xsl:text> </xsl:text>
-        <xsl:value-of select="./copyright/year"/>
+        <xsl:value-of select="./pubdate"/>
       </xsl:if>
 
       <xsl:text>.</xsl:text>
