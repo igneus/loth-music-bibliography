@@ -1,138 +1,139 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                xmlns:db="http://docbook.org/ns/docbook"
+                version="1.0">
 
-  <xsl:strip-space elements="authorgroup author"/>
+  <xsl:strip-space elements="db:authorgroup db:author"/>
 
   <xsl:template match="/">
     <html>
       <head>
-        <title><xsl:value-of select="bibliography/title"/></title>
+        <title><xsl:value-of select="db:bibliography/db:title"/></title>
         <link rel="stylesheet" type="text/css" href="grafika/dbbibliography.css"/>
       </head>
 
       <body>
-        <xsl:apply-templates select="bibliography/title"/>
-        <xsl:apply-templates select="bibliography/subtitle"/>
+        <xsl:apply-templates select="db:bibliography/db:title"/>
+        <xsl:apply-templates select="db:bibliography/db:subtitle"/>
         <hr/>
 
-        <xsl:apply-templates select="bibliography"/>
+        <xsl:apply-templates select="db:bibliography"/>
       </body>
     </html>
   </xsl:template>
 
   <!-- top level -->
 
-  <xsl:template match="bibliography/title">
+  <xsl:template match="db:bibliography/db:title">
     <h1><xsl:value-of select="."/></h1>
   </xsl:template>
 
-  <xsl:template match="bibliography/subtitle">
+  <xsl:template match="db:bibliography/db:subtitle">
     <h2><xsl:value-of select="."/></h2>
   </xsl:template>
 
-  <xsl:template match="bibliography">
+  <xsl:template match="db:bibliography">
     <xsl:copy>
-      <xsl:apply-templates select="bibliodiv">
-        <xsl:sort select="contains(title, 'Gregorian')" order="descending"/>
-        <xsl:sort select="title" order="ascending"/>
+      <xsl:apply-templates select="db:bibliodiv">
+        <xsl:sort select="contains(db:title, 'Gregorian')" order="descending"/>
+        <xsl:sort select="db:title" order="ascending"/>
       </xsl:apply-templates>
     </xsl:copy>
   </xsl:template>
 
   <!-- bibliodiv -->
 
-  <xsl:template match="bibliodiv">
-    <xsl:apply-templates select="title"/>
+  <xsl:template match="db:bibliodiv">
+    <xsl:apply-templates select="db:title"/>
 
-    <xsl:for-each select="./biblioentry">
-      <xsl:sort select="pubdate" order="descending"/>
+    <xsl:for-each select="./db:biblioentry">
+      <xsl:sort select="db:pubdate" order="descending"/>
       <xsl:apply-templates select="."/>
     </xsl:for-each>
   </xsl:template>
 
-  <xsl:template match="bibliodiv/title">
+  <xsl:template match="db:bibliodiv/db:title">
     <h3><xsl:value-of select="."/></h3>
   </xsl:template>
 
   <!-- biblioentry -->
 
-  <xsl:template match="biblioentry">
+  <xsl:template match="db:biblioentry">
     <p>
-      <xsl:if test="./author">
-        <xsl:apply-templates select="author"/>
+      <xsl:if test="./db:author">
+        <xsl:apply-templates select="db:author"/>
       </xsl:if>
 
-      <xsl:if test="./authorgroup">
-        <xsl:apply-templates select="authorgroup"/>
+      <xsl:if test="./db:authorgroup">
+        <xsl:apply-templates select="db:authorgroup"/>
       </xsl:if>
 
-      <xsl:if test="./editor">
-        <xsl:apply-templates select="editor"/>
+      <xsl:if test="./db:editor">
+        <xsl:apply-templates select="db:editor"/>
       </xsl:if>
 
-      <!-- only show the corporate author if there's no author-person -->
-      <xsl:if test="./corpauthor and not(./author) and not(./authorgroup)">
-        <xsl:apply-templates select="corpauthor"/>
-      </xsl:if>
-
-      <xsl:if test="./author|./authorgroup|./editor|./corpauthor">
+      <xsl:if test="./db:author|./db:authorgroup|./db:editor">
         <xsl:text>: </xsl:text>
       </xsl:if>
       
       <span class="entrytitle">
-        <xsl:apply-templates select="title"/>
-        <xsl:if test="./subtitle">
+        <xsl:apply-templates select="db:title"/>
+        <xsl:if test="./db:subtitle">
           <xsl:text>. </xsl:text>
-          <xsl:apply-templates select="subtitle"/>
+          <xsl:apply-templates select="db:subtitle"/>
         </xsl:if>
       </span>
 
-      <xsl:if test="./publisher | ./pubdate">
+      <xsl:if test="./db:publisher | ./db:pubdate">
         <xsl:text>, </xsl:text>
       </xsl:if>
 
-      <xsl:if test="./publisher">
-        <xsl:if test="./publisher/address/city">
-          <xsl:value-of select="./publisher/address/city"/>
-          <xsl:if test="./publisher/publishername">
+      <xsl:if test="./db:publisher">
+        <xsl:if test="./db:publisher/db:address/db:city">
+          <xsl:value-of select="./db:publisher/db:address/db:city"/>
+          <xsl:if test="./db:publisher/db:publishername">
             <xsl:text>: </xsl:text>
           </xsl:if>
         </xsl:if>
-        <xsl:if test="./publisher/publishername">
-          <xsl:value-of select="./publisher/publishername"/>
+        <xsl:if test="./db:publisher/db:publishername">
+          <xsl:value-of select="./db:publisher/db:publishername"/>
         </xsl:if>
       </xsl:if>
 
-      <xsl:if test="./pubdate">
+      <xsl:if test="./db:pubdate">
         <xsl:text> </xsl:text>
-        <xsl:value-of select="./pubdate"/>
+        <xsl:value-of select="./db:pubdate"/>
       </xsl:if>
 
       <xsl:text>.</xsl:text>
     </p>
   </xsl:template>
 
-  <xsl:template match="authorgroup">
-    <for-each select="./author">
+  <xsl:template match="db:authorgroup">
+    <for-each select="./db:author">
       <xsl:apply-templates/>
       
     </for-each>
   </xsl:template>
 
-  <xsl:template match="author|editor">
-    <span class="authorsurname"><xsl:value-of select="./surname"/></span>
-    <xsl:if test="./firstname">
-      <xsl:text> </xsl:text>
-      <xsl:value-of select="./firstname"/>
-    </xsl:if>
-    <xsl:if test="./othername">
-      <xsl:text> </xsl:text>
-      <xsl:value-of select="./othername"/>
-    </xsl:if>
+  <xsl:template match="db:author|db:editor">
+    <xsl:apply-templates select="./db:personname | ./db:orgname"/>
     <!-- dash between more authors in an authorgroup -->
     <xsl:if test="position() != last()">
       <xsl:text> - </xsl:text>
+    </xsl:if>
+  </xsl:template>
+
+  <xsl:template match="db:personname">
+    <span class="authorsurname"><xsl:value-of select="./db:surname"/></span>
+    <xsl:if test="./db:firstname">
+      <xsl:text> </xsl:text>
+      <xsl:value-of select="./db:firstname"/>
+    </xsl:if>
+    <xsl:if test="./db:othername">
+      <xsl:text> </xsl:text>
+      <xsl:value-of select="./db:othername"/>
     </xsl:if>
   </xsl:template>
 
