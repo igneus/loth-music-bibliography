@@ -8,7 +8,7 @@ A simple XSL stylesheet is provided to view the bibliography
 in a modern web browser.
 
 You can view the bibliography online:
-http://inadiutorium.xf.cz/bibliography/
+http://www.inadiutorium.cz/bibliography/
 
 ## Validation
 
