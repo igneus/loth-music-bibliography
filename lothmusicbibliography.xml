@@ -1296,4 +1296,25 @@
     </biblioentry>
   </bibliodiv>
 
+  <bibliodiv>
+    <title>Norwegian</title>
+
+    <biblioentry>
+      <title>Norske Tidebønner</title>
+      <subtitle>Tekster fra Kirkens Breviar oversatt og bearbeidet av dominikanerinner ved Sankta Katarinahjemmet Oslo</subtitle>
+      <authorgroup>
+        <author><surname>Robak</surname><firstname>Liv</firstname><othername>Due</othername></author>
+        <author><surname>Norheim</surname><firstname>Tharalf</firstname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Sankta Katarina</publishername>
+        <address><city>Oslo</city></address>
+      </publisher>
+      <copyright>
+      <year>1982</year>
+      <pagenums>796</pagenums>
+      </copyright>
+    </biblioentry>
+  </bibliodiv>
+
 </bibliography>
