@@ -28,21 +28,53 @@
 
     <biblioentry>
       <title>Liber hymnarius</title>
+      <subtitle>cum invitatoriis et aliquibus responsoriis</subtitle>
       <publisher>
         <publishername>Abbaye Saint-Pierre de Solesmes</publishername>
         <address><city>Solesmes</city></address>
       </publisher>
       <pubdate>1983</pubdate>
+      <isbn>2-85274-076-1</isbn>
+      <pagenums>622</pagenums>
     </biblioentry>
 
     <biblioentry>
-      <title>Antiphonale Romanum, t. II.</title>
+      <title>Liber hymnarius</title>
+      <subtitle>cum invitatoriis et aliquibus responsoriis</subtitle>
+      <publisher>
+        <publishername>Abbaye Saint-Pierre de Solesmes</publishername>
+        <address><city>Solesmes</city></address>
+      </publisher>
+      <edition>editio emendata et aucta</edition>
+      <pubdate>2019</pubdate>
+      <isbn>978-2-85274-319-9</isbn>
+      <pagenums>622</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Antiphonale Romanum</title>
+      <volumenum>1</volumenum>
+      <subtitle>In dominicis et festis ad Laudes matutinas cum Invitatoriis</subtitle>
+      <publisher>
+        <publishername>Abbaye Saint-Pierre de Solesmes</publishername>
+        <address><city>Solesmes</city></address>
+      </publisher>
+      <pubdate>2020</pubdate>
+      <isbn>978-2-85274-285-7</isbn>
+      <pagenums>663</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Antiphonale Romanum</title>
+      <volumenum>2</volumenum>
       <subtitle>Ad Vesperas in dominicis et festis</subtitle>
       <publisher>
         <publishername>Abbaye Saint-Pierre de Solesmes</publishername>
         <address><city>Solesmes</city></address>
       </publisher>
       <pubdate>2009</pubdate>
+      <isbn>978-2-85274-338-0</isbn>
+      <pagenums>786</pagenums>
     </biblioentry>
   </bibliodiv>
 
