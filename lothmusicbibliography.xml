@@ -20,11 +20,9 @@
         <publishername></publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-      <year></year>
+      <pubdate></pubdate>
       <isbn></isbn>
       <pagenums></pagenums>
-      </copyright>
     </biblioentry>
     -->
 
@@ -34,9 +32,7 @@
         <publishername>Abbaye Saint-Pierre de Solesmes</publishername>
         <address><city>Solesmes</city></address>
       </publisher>
-      <copyright>
-        <year>1983</year>
-      </copyright>
+      <pubdate>1983</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -46,9 +42,7 @@
         <publishername>Abbaye Saint-Pierre de Solesmes</publishername>
         <address><city>Solesmes</city></address>
       </publisher>
-      <copyright>
-        <year>2009</year>
-      </copyright>
+      <pubdate>2009</pubdate>
     </biblioentry>
   </bibliodiv>
 
@@ -68,9 +62,7 @@
         <publishername>Communauté Saint-Martin</publishername>
         <address><city>Candé-sur-Beuvron</city></address>
       </publisher>
-      <copyright>
-        <year>2008</year>
-      </copyright>
+      <pubdate>2008</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -81,9 +73,7 @@
         <publishername>Calithes</publishername>
         <address><city>Colfelice</city></address>
       </publisher>
-      <copyright>
-        <year>2010</year>
-      </copyright>
+      <pubdate>2010</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -94,9 +84,7 @@
         <publishername>Assoc. musicale "Amici dell'Organo"</publishername>
         <address><city>Como</city></address>
       </publisher>
-      <copyright>
-        <year>1990</year>
-      </copyright>
+      <pubdate>1990</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -109,11 +97,8 @@
         <publishername>Edizioni Urban</publishername>
         <address><city>Saronno</city></address>
       </publisher>
-      <copyright>
-      <year>1997</year>
-      <!--<isbn></isbn>-->
+      <pubdate>1997</pubdate>
       <pagenums>182</pagenums>
-      </copyright>
     </biblioentry>
 
     <biblioentry>
@@ -123,12 +108,13 @@
       </title>
       <publisher>
         <publishername>Společnost pro duchovní hudbu</publishername>
+        <address><city>Praha</city></address>
+      </publisher>
+      <publisher>
         <publishername>Editio sti. Ægidii</publishername>
         <address><city>Praha</city></address>
       </publisher>
-      <copyright>
-        <year>1993</year>
-      </copyright>
+      <pubdate>1993</pubdate>
     </biblioentry>
   </bibliodiv>
 
@@ -139,11 +125,10 @@
       <title>Denní modlitba církve. Hymny</title>
       <corpauthor>Česká liturgická komise</corpauthor>
       <publisher>
+        <publishername></publishername>
         <address><city>Praha</city></address>
       </publisher>
-      <copyright>
-        <year>1989</year>
-      </copyright>
+      <pubdate>1989</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -152,9 +137,7 @@
         <publishername>Zvon</publishername>
         <address><city>Praha</city></address>
       </publisher>
-      <copyright>
-        <year>1993</year>
-      </copyright>
+      <pubdate>1993</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -168,9 +151,7 @@
         <publishername></publishername>
         <address><city>Praha</city></address>
       </publisher>
-      <copyright>
-        <year>1988</year>
-      </copyright>
+      <pubdate>1988</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -180,9 +161,7 @@
         <publishername>Matice cyrilometodějská</publishername>
         <address><city>Olomouc</city></address>
       </publisher>
-      <copyright>
-        <year>2006</year>
-      </copyright>
+      <pubdate>2006</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -192,9 +171,7 @@
         <publishername>Gloria</publishername>
         <address><city>Rosice u Brna</city></address>
       </publisher>
-      <copyright>
-        <year>2001</year>
-      </copyright>
+      <pubdate>2001</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -204,9 +181,7 @@
         <publishername>Matice cyrilometodějská</publishername>
         <address><city>Olomouc</city></address>
       </publisher>
-      <copyright>
-        <year>2010</year>
-      </copyright>
+      <pubdate>2010</pubdate>
     </biblioentry>
   </bibliodiv>
 
@@ -220,9 +195,7 @@
         <publishername>Vydavateľstvo M. Vaška</publishername>
         <address><city>Prešov</city></address>
       </publisher>
-      <copyright>
-        <year>1999</year>
-      </copyright>
+      <pubdate>1999</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -235,9 +208,7 @@
         <publishername>Kňazský seminár biskupa Jána Vojtaššáka Spišská Kapitula</publishername>
         <address><city>Spišské Podhradie</city></address>
       </publisher>
-      <copyright>
-        <year>1997</year>
-      </copyright>
+      <pubdate>1997</pubdate>
     </biblioentry>
   </bibliodiv>
 
@@ -249,9 +220,7 @@
       <publisher>
         <publishername>Siostry Uczennice Boskiego Mistrza</publishername>
       </publisher>
-      <copyright>
-        <year>2012</year>
-      </copyright>
+      <pubdate>2012</pubdate>
       <isbn>979-0-9013392-0-0</isbn>
       <pagenums>318</pagenums>
     </biblioentry>
@@ -264,9 +233,7 @@
         <publishername>Wydawnictwo Światło - Życie</publishername>
         <address><city>Kraków</city></address>
       </publisher>
-      <copyright>
-        <year>2010</year>
-      </copyright>
+      <pubdate>2010</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -289,9 +256,7 @@
         <address><city>Opole</city></address>
       </publisher>
       <edition>3</edition>
-      <copyright>
-        <year>2004</year>
-      </copyright>
+      <pubdate>2004</pubdate>
       <abstract>
         <para>
           Collection of chants for the mass as well as divine office.
@@ -316,9 +281,7 @@
         <address><city>Leipzig</city></address>
       </publisher>
       <edition>13</edition>
-      <copyright>
-        <year>2011</year>
-      </copyright>
+      <pubdate>2011</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -331,9 +294,7 @@
         <publishername>Bonifacius</publishername>
         <address><city>Paderborn</city></address>
       </publisher>
-      <copyright>
-        <year>1979</year>
-      </copyright>
+      <pubdate>1979</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -347,9 +308,7 @@
         <address><city>Freiburg-Basel-Wien</city></address>
       </publisher>
       <edition>2</edition>
-      <copyright>
-        <year>1979</year>
-      </copyright>
+      <pubdate>1979</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -360,9 +319,7 @@
         <publishername>Paderborner Druck Centrum</publishername>
         <address><city>Paderborn</city></address>
       </publisher>
-      <copyright>
-        <year>1988</year>
-      </copyright>
+      <pubdate>1988</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -377,9 +334,7 @@
         <publishername>Herder</publishername>
         <address><city>Freiburg</city></address>
       </publisher>
-      <copyright>
-        <year>1980</year>
-      </copyright>
+      <pubdate>1980</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -393,9 +348,7 @@
         <publishername>Herder</publishername>
         <address><city>Freiburg</city></address>
       </publisher>
-      <copyright>
-        <year>1989</year>
-      </copyright>
+      <pubdate>1989</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -405,9 +358,7 @@
         <publishername>Herder</publishername>
         <address><city>Freiburg-Basel-Wien</city></address>
       </publisher>
-      <copyright>
-        <year>1995</year>
-      </copyright>
+      <pubdate>1995</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -417,9 +368,7 @@
         <publishername>Herder</publishername>
         <address><city>Freiburg-Basel-Wien</city></address>
       </publisher>
-      <copyright>
-        <year>1980</year>
-      </copyright>
+      <pubdate>1980</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -434,9 +383,7 @@
         <publishername>Vier-Türme-Verlag</publishername>
         <address><city>Münsterschwarzach</city></address>
       </publisher>
-      <copyright>
-        <year>1976</year>
-      </copyright>
+      <pubdate>1976</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -451,9 +398,7 @@
         <publishername>Vier-Türme-Verlag</publishername>
         <address><city>Münsterschwarzach</city></address>
       </publisher>
-      <copyright>
-        <year>1976</year>
-      </copyright>
+      <pubdate>1976</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -463,9 +408,7 @@
         <publishername>Vier-Türme-Verlag</publishername>
         <address><city>Münsterschwarzach</city></address>
       </publisher>
-      <copyright>
-        <year>1970</year>
-      </copyright>
+      <pubdate>1970</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -478,9 +421,7 @@
         <publishername>Christophorus-Verlag</publishername>
         <address><city>Freiburg im Breisgau</city></address>
       </publisher>
-      <copyright>
-        <year>1960</year>
-      </copyright>
+      <pubdate>1960</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -495,9 +436,7 @@
         <address><city>Freiburg im Breisgau</city></address>
       </publisher>
       <edition>3</edition>
-      <copyright>
-        <year>1965</year>
-      </copyright>
+      <pubdate>1965</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -512,9 +451,7 @@
         <publishername>Christophorus-Verlag</publishername>
         <address><city>Freiburg im Breisgau</city></address>
       </publisher>
-      <copyright>
-        <year>1967</year>
-      </copyright>
+      <pubdate>1967</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -525,9 +462,7 @@
         <publishername>Herder</publishername>
         <address><city>Freiburg im Breisgau</city></address>
       </publisher>
-      <copyright>
-        <year>1988</year>
-      </copyright>
+      <pubdate>1988</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -537,9 +472,7 @@
         <publishername>Kösel</publishername>
         <address><city>München</city></address>
       </publisher>
-      <copyright>
-        <year>1961-1962 (two tomes)</year>
-      </copyright>
+      <pubdate>1961-1962 (two tomes)</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -550,9 +483,7 @@
         <publishername>Veritas</publishername>
         <address><city>Wien</city></address>
       </publisher>
-      <copyright>
-        <year>1962 or later</year>
-      </copyright>
+      <pubdate>1962 or later</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -565,9 +496,7 @@
         <publishername>Vier-Türme-Verlag</publishername>
         <address><city>Münsterschwarzach</city></address>
       </publisher>
-      <copyright>
-        <year>1999</year>
-      </copyright>
+      <pubdate>1999</pubdate>
     </biblioentry>
   </bibliodiv>
 
@@ -581,9 +510,7 @@
         <publishername>Catholic Book Publishing Co.</publishername>
         <address><city>New York</city></address>
       </publisher>
-      <copyright>
-        <year>1976</year>
-      </copyright>
+      <pubdate>1976</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -593,9 +520,7 @@
         <publishername>Hillenbrand Books</publishername>
         <address><city>Chicago</city></address>
       </publisher>
-      <copyright>
-        <year>2007</year>
-      </copyright>
+      <pubdate>2007</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -606,9 +531,7 @@
         <publishername>Collins</publishername>
         <address><city>London</city></address>
       </publisher>
-      <copyright>
-        <year>1978</year>
-      </copyright>
+      <pubdate>1978</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -623,9 +546,7 @@
         <publishername>Ignatius Press</publishername>
         <address><city>San Francisco</city></address>
       </publisher>
-      <copyright>
-        <year>2010</year>
-      </copyright>
+      <pubdate>2010</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -635,9 +556,7 @@
         <publishername>Canterbury Press</publishername>
         <address><city>Norwich</city></address>
       </publisher>
-      <copyright>
-        <year>2011</year>
-      </copyright>
+      <pubdate>2011</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -648,10 +567,8 @@
         <publishername>Collins</publishername>
         <address><city>London</city></address>
       </publisher>
-      <copyright>
-      <year>1982</year>
-      </copyright>
-      <biblioid class="isbn">0005996996</biblioid>
+      <pubdate>1982</pubdate>
+      <isbn>0005996996</isbn>
       <abstract>
         <para>
           Service book for Sunday vespers.
@@ -671,9 +588,7 @@
         <publishername>Catholic Book Publishing Co.</publishername>
         <address><city>New York</city></address>
       </publisher>
-      <copyright>
-      <year>1978</year>
-      </copyright>
+      <pubdate>1978</pubdate>
       <abstract>
         <para>
           First week of the Psalter, notated.
@@ -692,11 +607,10 @@
         <author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
       </authorgroup>
       <publisher>
+        <publishername></publishername>
         <address><city>Brugge</city></address>
       </publisher>
-      <copyright>
-        <year>1992</year>
-      </copyright>
+      <pubdate>1992</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -706,11 +620,10 @@
         <author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
       </authorgroup>
       <publisher>
+        <publishername></publishername>
         <address><city>Brugge</city></address>
       </publisher>
-      <copyright>
-        <year>1992</year>
-      </copyright>
+      <pubdate>1992</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -720,22 +633,20 @@
         <author><surname>Weemeas</surname><firstname>Marcel</firstname></author>
       </authorgroup>
       <publisher>
+        <publishername></publishername>
         <address><city>Brugge</city></address>
       </publisher>
-      <copyright>
-        <year>1989-2002</year>
-      </copyright>
+      <pubdate>1989-2002</pubdate>
     </biblioentry>
 
     <biblioentry>
       <title>Hymnarium</title>
       <author><surname>Böhmer</surname><firstname>Jan</firstname></author>
       <publisher>
+        <publishername></publishername>
         <address><city>Wijchen</city></address>
       </publisher>
-      <copyright>
-        <year>2007</year>
-      </copyright>
+      <pubdate>2007</pubdate>
     </biblioentry>
   </bibliodiv>
 
@@ -748,9 +659,7 @@
         <publishername></publishername>
         <address><city></city></address>
       </publisher> -->
-      <copyright>
-        <year>2013</year>
-      </copyright>
+      <pubdate>2013</pubdate>
       <abstract>
         <para>
           7 volumes.
@@ -768,9 +677,7 @@
         <publishername>Cerf</publishername>
         <address><city>Paris</city></address>
       </publisher>
-      <copyright>
-        <year>1995</year>
-      </copyright>
+      <pubdate>1995</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -780,9 +687,7 @@
         <publishername>Lethielleux - Kinnor</publishername>
         <address><city>Paris</city></address>
       </publisher>
-      <copyright>
-        <year>2002</year>
-      </copyright>
+      <pubdate>2002</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -792,12 +697,10 @@
         <publishername>Mame-Desclée</publishername>
         <address><city>Paris</city></address>
       </publisher>
-      <copyright>
-      <year>2015</year>
+      <pubdate>2015</pubdate>
       <isbn>9782718908489</isbn>
       <isbn>2718908483</isbn>
       <pagenums>340</pagenums>
-      </copyright>
     </biblioentry>
 
     <biblioentry>
@@ -807,12 +710,10 @@
         <publishername>Mame-Desclée</publishername>
         <address><city>Paris</city></address>
       </publisher>
-      <copyright>
-      <year>2016</year>
+      <pubdate>2016</pubdate>
       <isbn>9782718908809</isbn>
       <isbn>2718908807</isbn>
       <pagenums>238</pagenums>
-      </copyright>
     </biblioentry>
 
     <biblioentry>
@@ -822,12 +723,10 @@
         <publishername>Magnificat</publishername>
         <address><city>Paris</city></address>
       </publisher>
-      <copyright>
-      <year>2007</year>
+      <pubdate>2007</pubdate>
       <isbn>9782917146002</isbn>
       <isbn>2917146001</isbn>
       <pagenums>333</pagenums>
-      </copyright>
     </biblioentry>
   </bibliodiv>
 
@@ -842,9 +741,7 @@
         <publishername>Secretariado Nacional de Liturgia</publishername>
         <address><city>Madrid</city></address>
       </publisher>
-      <copyright>
-        <year>1976</year>
-      </copyright>
+      <pubdate>1976</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -855,11 +752,9 @@
         <publishername>Regina</publishername>
         <address><city>Barcelona</city></address>
       </publisher>
-      <copyright>
-      <year>1977</year>
+      <pubdate>1977</pubdate>
       <isbn>8471290332</isbn>
       <pagenums>432</pagenums>
-      </copyright>
     </biblioentry>
 
     <biblioentry>
@@ -870,11 +765,9 @@
         <publishername>Regina</publishername>
         <address><city>Barcelona</city></address>
       </publisher>
-      <copyright>
-      <year>1977</year>
+      <pubdate>1977</pubdate>
       <isbn>8471290499</isbn>
       <pagenums>57</pagenums>
-      </copyright>
     </biblioentry>
 
     <biblioentry>
@@ -885,9 +778,7 @@
         <publishername>Edibesa</publishername>
         <address><city>Madrid</city></address>
       </publisher>
-      <copyright>
-        <year>2004</year>
-      </copyright>
+      <pubdate>2004</pubdate>
     </biblioentry>
   </bibliodiv>
 
@@ -896,15 +787,13 @@
 
     <biblioentry>
       <title>Liturgia das Horas - Música</title>
-      <volumenum>1</volumenum>>
+      <volumenum>1</volumenum>
       <corpauthor>CNBB</corpauthor>
       <publisher>
         <publishername>Editora Paulus</publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-        <year>2007</year>
-      </copyright>
+      <pubdate>2007</pubdate>
       <abstract>
         <para>
           What I really like about this Portuguese edition is
@@ -916,15 +805,13 @@
 
     <biblioentry>
       <title>Liturgia das Horas - Música</title>
-      <volumenum>2</volumenum>>
+      <volumenum>2</volumenum>
       <corpauthor>CNBB</corpauthor>
       <publisher>
         <publishername>Editora Paulus</publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-        <year>2011</year>
-      </copyright>
+      <pubdate>2011</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -934,10 +821,6 @@
         <publishername></publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-        <year></year>
-        <isbn></isbn>
-      </copyright>
       <isbn>972-8286-29-5</isbn>
       <pagenums>488</pagenums>
     </biblioentry>
@@ -950,11 +833,8 @@
         <publishername></publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-        <year></year>
-        <isbn>972-8286-67-8</isbn>
-        <pagenums>768</pagenums>
-      </copyright>
+      <isbn>972-8286-67-8</isbn>
+      <pagenums>768</pagenums>
     </biblioentry>
 
     <biblioentry>
@@ -965,11 +845,8 @@
         <publishername></publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-        <year></year>
-        <isbn>978-989-8293-22-0</isbn>
-        <pagenums>640</pagenums>
-      </copyright>
+      <isbn>978-989-8293-22-0</isbn>
+      <pagenums>640</pagenums>
     </biblioentry>
 
     <biblioentry>
@@ -979,11 +856,8 @@
         <publishername></publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-        <year></year>
-        <isbn>978-972-8286-72-9</isbn>
-        <pagenums>64</pagenums>
-      </copyright>
+      <isbn>978-972-8286-72-9</isbn>
+      <pagenums>64</pagenums>
     </biblioentry>
 
     <biblioentry>
@@ -994,26 +868,16 @@
         <publishername></publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-        <year></year>
-        <isbn>972-8286-77-5</isbn>
-        <pagenums>656</pagenums>
-      </copyright>
+      <isbn>972-8286-77-5</isbn>
+      <pagenums>656</pagenums>
     </biblioentry>
 
     <biblioentry>
       <title>Canto Perene – II</title>
       <subtitle>Tempo Comum – ofício dominical</subtitle>
       <author><surname>Ferreira dos Santos</surname><firstname>António</firstname></author>
-      <publisher>
-        <publishername></publishername>
-        <address><city></city></address>
-      </publisher>
-      <copyright>
-        <year></year>
-        <isbn>972-8286-70-8</isbn>
-        <pagenums>480</pagenums>
-      </copyright>
+      <isbn>972-8286-70-8</isbn>
+      <pagenums>480</pagenums>
     </biblioentry>
 
     <biblioentry>
@@ -1024,11 +888,8 @@
         <publishername></publishername>
         <address><city></city></address>
       </publisher>
-      <copyright>
-        <year></year>
-        <isbn>978-972-8286-93-4</isbn>
-        <pagenums>512</pagenums>
-      </copyright>
+      <isbn>978-972-8286-93-4</isbn>
+      <pagenums>512</pagenums>
     </biblioentry>
   </bibliodiv>
 
@@ -1041,9 +902,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year> 2003</year>
-      </copyright>
+      <pubdate> 2003</pubdate>
       <abstract>
         <para>
           Contains, among other works:
@@ -1059,9 +918,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year>1989</year>
-      </copyright>
+      <pubdate>1989</pubdate>
       <abstract>
         <para>
           Vespro della Madonna,
@@ -1080,9 +937,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year> 1991</year>
-      </copyright>
+      <pubdate> 1991</pubdate>
       <abstract>
         <para>
           Lodi mattutine,
@@ -1100,9 +955,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year> 2015</year>
-      </copyright>
+      <pubdate>2015</pubdate>
       <abstract>
         <para>
           CREATORE DEGLI ASTRI,
@@ -1136,9 +989,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year>1986</year>
-      </copyright>
+      <pubdate>1986</pubdate>
       <abstract>
         <para>
           O giorno primo ed ultimo,
@@ -1184,9 +1035,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year>2007</year>
-      </copyright>
+      <pubdate>2007</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -1196,9 +1045,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year>1993</year>
-      </copyright>
+      <pubdate>1993</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -1208,9 +1055,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year>2007</year>
-      </copyright>
+      <pubdate>2007</pubdate>
       <abstract>
         <para>
           Not sure if it is intended for the Roman or Ambrosian
@@ -1225,9 +1070,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year>2007</year>
-      </copyright>
+      <pubdate>2007</pubdate>
       <abstract>
         <para>
           Proposta musicale mirata per le corali parrocchiali.
@@ -1245,9 +1088,7 @@
       <publisher>
         <publishername>Carrara</publishername>
       </publisher>
-      <copyright>
-      <year>2009</year>
-      </copyright>
+      <pubdate>2009</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -1258,9 +1099,7 @@
           <otheraddr><ulink url="http://www.lulu.com">www.lulu.com</ulink></otheraddr>
         </address>
       </publisher>
-      <copyright>
-        <year>2008</year>
-      </copyright>
+      <pubdate>2008</pubdate>
       <abstract>
         <para>
           General psalm-tones and hymn-tones. A lot of them.
@@ -1277,9 +1116,7 @@
         <publishername>Centro azione liturgica</publishername>
         <address><city>Padova</city></address>
       </publisher>
-      <copyright>
-        <year>1973</year>
-      </copyright>
+      <pubdate>1973</pubdate>
     </biblioentry>
 
     <biblioentry>
@@ -1290,9 +1127,7 @@
         <publishername>EMP</publishername>
         <address><city>Padova</city></address>
       </publisher>
-      <copyright>
-        <year>1973</year>
-      </copyright>
+      <pubdate>1973</pubdate>
     </biblioentry>
   </bibliodiv>
 
@@ -1310,10 +1145,8 @@
         <publishername>Sankta Katarina</publishername>
         <address><city>Oslo</city></address>
       </publisher>
-      <copyright>
-      <year>1982</year>
+      <pubdate>1982</pubdate>
       <pagenums>796</pagenums>
-      </copyright>
     </biblioentry>
   </bibliodiv>
 
