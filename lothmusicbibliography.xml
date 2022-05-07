@@ -1155,6 +1155,22 @@
       </publisher>
       <pubdate>1973</pubdate>
     </biblioentry>
+
+    <biblioentry>
+      <title>Il ritmo della lode</title>
+      <subtitle>Il canto degli inni nella Liturgia delle Ore</subtitle>
+      <authorgroup>
+        <author><personname><surname>Becchimanzi</surname><firstname>Gennaro</firstname></personname></author>
+        <author><personname><surname>Di Luglio</surname><firstname>Maria</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Libreria editrice vaticana</publishername>
+        <address><city>Città del Vaticano</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+      <!-- TODO <biblioid class="isbn"></biblioid> -->
+      <pagenums>242</pagenums>
+    </biblioentry>
   </bibliodiv>
 
   <bibliodiv>
