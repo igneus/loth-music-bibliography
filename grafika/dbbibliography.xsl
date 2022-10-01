@@ -60,7 +60,12 @@
   </xsl:template>
 
   <xsl:template match="db:bibliodiv/db:title">
-    <h3><xsl:value-of select="."/></h3>
+    <h3>
+      <xsl:attribute name="id">
+	<xsl:value-of select="translate(., ' ', '')"/>
+      </xsl:attribute>
+      <xsl:value-of select="."/>
+    </h3>
   </xsl:template>
 
   <!-- biblioentry -->
