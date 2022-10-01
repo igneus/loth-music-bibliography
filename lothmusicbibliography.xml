@@ -215,6 +215,18 @@
     <title>Slovak</title>
 
     <biblioentry>
+      <title>Výber zhudobnených hymnov na posvätenie času</title>
+      <author><personname><surname>Gašparík</surname><firstname>Július</firstname></personname></author>
+      <publisher>
+        <publishername>Slovenský ústav svätého Cyrila a Metoda</publishername>
+        <address><city>Rím</city></address>
+      </publisher>
+      <pubdate>1978</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums></pagenums>
+    </biblioentry>
+
+    <biblioentry>
       <title>Zhudobnená liturgia hodín</title>
       <author><personname><surname>Magulová</surname><firstname>Cecília</firstname></personname></author>
       <publisher>
@@ -235,6 +247,51 @@
         <address><city>Spišské Podhradie</city></address>
       </publisher>
       <pubdate>1997</pubdate>
+      <biblioid class="isbn">8071420549</biblioid>
+      <pagenums>315</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Zhudobnené vešpery na nedele a sviatky</title>
+      <subtitle>So sprievodom pre organ</subtitle>
+      <authorgroup>
+        <author><personname><surname>Akimjak</surname><firstname>Amantius</firstname></personname></author>
+        <author><personname><surname>Adamko</surname><firstname>Rastislav</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Kňazský seminár biskupa Jána Vojtaššáka Spišská Kapitula</publishername>
+        <address><city>Spišské Podhradie</city></address>
+      </publisher>
+      <pubdate>1997</pubdate>
+      <biblioid class="isbn">8071420530</biblioid>
+      <pagenums>201</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Zhudobnené vešpery na nedele a sviatky pre ľud</title>
+      <authorgroup>
+        <author><personname><surname>Akimjak</surname><firstname>Amantius</firstname></personname></author>
+        <author><personname><surname>Adamko</surname><firstname>Rastislav</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Vydavateľstvo Michala Vaška</publishername>
+        <address><city>Prešov</city></address><!-- uncertain for this book, inferred from older books of the same publisher -->
+      </publisher>
+      <pubdate>2015</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>316</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Zhudobnená liturgia hodín na Veľkonočné trojdnie</title>
+      <author><personname><surname>Akimjak</surname><firstname>Amantius</firstname></personname></author>
+      <publisher>
+        <publishername>VERBUM – vydavateľstvo KU</publishername>
+        <address><city>Ružomberok</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+      <biblioid class="isbn">978-80-561-0854-3</biblioid>
+      <pagenums>62</pagenums>
     </biblioentry>
   </bibliodiv>
 
