@@ -1215,6 +1215,48 @@
     </biblioentry>
 
     <biblioentry>
+      <title>Versione di tutti gl'inni della liturgia delle ore.</title>
+      <subtitle>Sotto il patrocinio dell' A.I.S.C. Con appendice musicale a cura del traduttore</subtitle>
+      <author><personname><surname>Carlucci</surname><firstname>Zaccaria</firstname></personname></author>
+      <publisher>
+        <publishername>Sallustiana s.d.</publishername>
+        <address><city>Roma</city></address>
+      </publisher>
+      <pubdate>1981</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>328</pagenums>
+    </biblioentry>
+
+    <!-- TODO look for more resources on how to correctly describe named issue of a journal/series -->
+    <biblioentry>
+      <biblioset relation="journal">
+        <title>Armonia di Voci</title>
+        <subtitle>Proposta di musica per la liturgia</subtitle>
+        <publisher>
+          <publishername>Elledici</publishername>
+          <address><city></city></address>
+        </publisher>
+      </biblioset>
+      <biblioset relation="issue">
+        <title>Inni della Liturgia delle ore</title>
+        <!-- n. 3: luglio, agosto, settembre 2009 -->
+        <issuenum>3</issuenum>
+        <pubdate>2009-07-23</pubdate>
+        <pagenums>56</pagenums>
+        <abstract>
+          <para>
+            Questo numero è dedicato agli inni per la Liturgia delle Ore dei tempi forti.
+            I testi sono stati rivisitati avendo come riferimento l’originale latino
+            e la traduzione italiana presente nell’attuale Liturgia delle Ore.
+            Il fascicolo offre, per ogni inno, una versione “base” per assemblea ed elaborazioni
+            per tipologie differenziate di cori (voci pari, voci maschili e femminili
+            e 4 voci dispari). Allegato, un cd con la registrazione dei canti.
+          </para>
+        </abstract>
+      </biblioset>
+    </biblioentry>
+
+    <biblioentry>
       <title>Il ritmo della lode</title>
       <subtitle>Il canto degli inni nella Liturgia delle Ore</subtitle>
       <authorgroup>
