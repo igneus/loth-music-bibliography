@@ -54,7 +54,7 @@
     <xsl:apply-templates select="db:title"/>
 
     <xsl:for-each select="./db:biblioentry">
-      <xsl:sort select="db:pubdate" order="descending"/>
+      <xsl:sort select="db:pubdate|db:biblioset/db:pubdate" order="descending"/>
       <xsl:apply-templates select="."/>
     </xsl:for-each>
   </xsl:template>
@@ -72,53 +72,65 @@
 
   <xsl:template match="db:biblioentry">
     <p>
-      <xsl:if test="./db:author">
-        <xsl:apply-templates select="db:author"/>
-      </xsl:if>
-
-      <xsl:if test="./db:authorgroup">
-        <xsl:apply-templates select="db:authorgroup"/>
-      </xsl:if>
-
-      <xsl:if test="./db:editor">
-        <xsl:apply-templates select="db:editor"/>
-      </xsl:if>
-
-      <xsl:if test="./db:author|./db:authorgroup|./db:editor">
-        <xsl:text>: </xsl:text>
-      </xsl:if>
-      
-      <span class="entrytitle">
-        <xsl:apply-templates select="db:title"/>
-        <xsl:if test="./db:subtitle">
-          <xsl:text>. </xsl:text>
-          <xsl:apply-templates select="db:subtitle"/>
-        </xsl:if>
-      </span>
-
-      <xsl:if test="./db:publisher | ./db:pubdate">
-        <xsl:text>, </xsl:text>
-      </xsl:if>
-
-      <xsl:if test="./db:publisher">
-        <xsl:if test="./db:publisher/db:address/db:city">
-          <xsl:value-of select="./db:publisher/db:address/db:city"/>
-          <xsl:if test="./db:publisher/db:publishername">
-            <xsl:text>: </xsl:text>
-          </xsl:if>
-        </xsl:if>
-        <xsl:if test="./db:publisher/db:publishername">
-          <xsl:value-of select="./db:publisher/db:publishername"/>
-        </xsl:if>
-      </xsl:if>
-
-      <xsl:if test="./db:pubdate">
-        <xsl:text> </xsl:text>
-        <xsl:value-of select="./db:pubdate"/>
-      </xsl:if>
-
-      <xsl:text>.</xsl:text>
+      <xsl:choose>
+        <xsl:when test="./db:biblioset">
+          <xsl:apply-templates select="./db:biblioset[@relation = 'issue']"/>
+          <xsl:apply-templates select="./db:biblioset[@relation = 'journal']"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:call-template name="biblioset_content"/>
+        </xsl:otherwise>
+      </xsl:choose>
     </p>
+  </xsl:template>
+
+  <xsl:template match="db:biblioset" name="biblioset_content">
+    <xsl:if test="./db:author">
+      <xsl:apply-templates select="db:author"/>
+    </xsl:if>
+
+    <xsl:if test="./db:authorgroup">
+      <xsl:apply-templates select="db:authorgroup"/>
+    </xsl:if>
+
+    <xsl:if test="./db:editor">
+      <xsl:apply-templates select="db:editor"/>
+    </xsl:if>
+
+    <xsl:if test="./db:author|./db:authorgroup|./db:editor">
+      <xsl:text>: </xsl:text>
+    </xsl:if>
+
+    <span class="entrytitle">
+      <xsl:apply-templates select="db:title"/>
+      <xsl:if test="./db:subtitle">
+        <xsl:text>. </xsl:text>
+        <xsl:apply-templates select="db:subtitle"/>
+      </xsl:if>
+    </span>
+
+    <xsl:if test="./db:publisher | ./db:pubdate">
+      <xsl:text>, </xsl:text>
+    </xsl:if>
+
+    <xsl:if test="./db:publisher">
+      <xsl:if test="./db:publisher/db:address/db:city">
+        <xsl:value-of select="./db:publisher/db:address/db:city"/>
+        <xsl:if test="./db:publisher/db:publishername">
+          <xsl:text>: </xsl:text>
+        </xsl:if>
+      </xsl:if>
+      <xsl:if test="./db:publisher/db:publishername">
+        <xsl:value-of select="./db:publisher/db:publishername"/>
+      </xsl:if>
+    </xsl:if>
+
+    <xsl:if test="./db:pubdate">
+      <xsl:text> </xsl:text>
+      <xsl:value-of select="./db:pubdate"/>
+    </xsl:if>
+
+    <xsl:text>. </xsl:text>
   </xsl:template>
 
   <xsl:template match="db:authorgroup">
