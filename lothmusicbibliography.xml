@@ -869,6 +869,45 @@
     <title>Portuguese</title>
 
     <biblioentry>
+      <title>Oração litúrgica da tarde ou vésperas</title>
+      <subtitle>colectânea de novas melodias para as vésperas dominicais e feriais, no Saltério distribuido em Quatro Semanas, segundo a nova Liturgia das Horas</subtitle>
+      <authorgroup>
+	<author><personname><surname>da Silva</surname><firstname>Moreira</firstname></personname></author>
+	<author><personname><surname>Duarte</surname><firstname>Álvaro</firstname></personname></author>
+	<author><personname><surname>de Sousa</surname><firstname>C.</firstname><othername>Borges</othername></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Santo Tirso</publishername>
+        <address><city>Ed. Ora et Labora</city></address>
+      </publisher>
+      <pubdate>1979</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>80</pagenums>
+      <abstract>
+	<para>
+	  Separata de: Ora et labora : revista litúrgica beneditina. N.o 1 e 2 (1979)
+	</para>
+      </abstract>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Tríduo pascal</title>
+      <subtitle>ofício de leitura laudes vésperas : liturgia das horas</subtitle>
+      <authorgroup>
+	<author><personname><surname>Luís</surname><firstname>Manuel</firstname></personname></author>
+	<author><personname><surname>Perruchot</surname><firstname></firstname></personname></author>
+	<author><personname><surname>Cartageno</surname><firstname>António</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Comissão de Liturgia e Música Sacra do Patriarcado de Lisboa</publishername>
+        <address><city>Lisboa</city></address>
+      </publisher>
+      <pubdate>1987</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>34</pagenums>
+    </biblioentry>
+
+    <biblioentry>
       <title>Liturgia das Horas - Música</title>
       <volumenum>1</volumenum>
       <author><orgname>CNBB</orgname></author>
@@ -1050,6 +1089,77 @@
 	  Este livro contém os Hinos, Antífonas, Salmodia, Responsório breve e Cântico evangélico para a Hora de Vésperas (I e II) dos Domingos da Quaresma (Domingo I ao Domingo de Ramos).
 	</para>
       </abstract>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Tríduo Pascal</title>
+      <subtitle>Liturgia das horas</subtitle>
+      <author><personname><surname>Luís</surname><firstname>Manuel</firstname></personname></author>
+      <publisher>
+        <publishername>Paulus</publishername>
+        <address><city>Lisboa</city></address>
+      </publisher>
+      <pubdate>2005</pubdate>
+      <biblioid class="isbn">972-30-1139-5</biblioid>
+      <pagenums>63</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Tríduo Pascal</title>
+      <subtitle>Liturgia das horas : Sexta-Feira Santa da Paixão do Senhor Sàbado Santo : Ofício de leitura Laudes Vésperas</subtitle>
+      <authorgroup>
+	<author><personname><surname>Luís</surname><firstname>Manuel</firstname></personname></author>
+	<author><personname><surname>Cartageno</surname><firstname>António</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Seminário Maior de Cristo Rei dos Olivais</publishername>
+        <address><city>Moscavide</city></address>
+      </publisher>
+      <pubdate>2009</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>62</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Tríduo Pascal</title>
+      <subtitle>Sexta-feira da Paixão do Senhor : Sábado Santo</subtitle>
+      <authorgroup>
+	<author><personname><surname>Luís</surname><firstname>Manuel</firstname></personname></author>
+	<author><personname><surname>Cartageno</surname><firstname>António</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Associação Monsenhor Pereira dos Reis</publishername>
+        <address><city>Mocavide</city></address>
+      </publisher>
+      <pubdate>2016</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>62</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Liturgia das horas no Santuário de Fátima</title>
+      <subtitle>Ofício de Leitura e Laudes - Vésperas</subtitle>
+      <author><personname><surname>de Oliveira</surname><firstname>Artur</firstname><othername>Ribeiro</othername></personname></author>
+      <publisher>
+        <publishername>Santuário</publishername>
+        <address><city>Fátima</city></address>
+      </publisher>
+      <pubdate>2006</pubdate>
+      <edition>4</edition>
+      <biblioid class="isbn">978-972-8213-41-1</biblioid>
+      <pagenums>191</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Ofício de São Domingos</title>
+      <subtitle>Salmos e Hinos para a Liturgia das Horas</subtitle>
+      <publisher>
+        <publishername>Paulus</publishername>
+        <address><city>Lisboa</city></address>
+      </publisher>
+      <pubdate>2016</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>44</pagenums>
     </biblioentry>
   </bibliodiv>
 
