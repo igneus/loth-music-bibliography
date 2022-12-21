@@ -901,21 +901,22 @@
       <title>Liturgia das Horas – Edição para canto – I</title>
       <subtitle>Tempo Comum</subtitle>
       <publisher>
-        <publishername></publishername>
-        <address><city></city></address>
+        <publishername>Secretariado Nacional de Liturgia</publishername>
+        <address><city>Fátima</city></address>
       </publisher>
+      <pubdate>1997</pubdate>
       <biblioid class="isbn">972-8286-29-5</biblioid>
       <pagenums>488</pagenums>
     </biblioentry>
 
     <biblioentry>
       <title>Liturgia das Horas – Edição para canto – II</title>
-      <subtitle>Adv. Nat.,Quar. Pásc.</subtitle>
-      <author><personname><surname></surname><firstname></firstname></personname></author>
+      <subtitle>Advento, Natal, Quaresma, Páscoa e solenidades do Senhor</subtitle>
       <publisher>
-        <publishername></publishername>
-        <address><city></city></address>
+        <publishername>Secretariado Nacional de Liturgia</publishername>
+        <address><city>Fátima</city></address>
       </publisher>
+      <pubdate>2003</pubdate>
       <biblioid class="isbn">972-8286-67-8</biblioid>
       <pagenums>768</pagenums>
     </biblioentry>
@@ -923,11 +924,11 @@
     <biblioentry>
       <title>Liturgia das Horas – Edição para canto – III</title>
       <subtitle>Santoral e Comuns</subtitle>
-      <author><personname><surname></surname><firstname></firstname></personname></author>
       <publisher>
-        <publishername></publishername>
-        <address><city></city></address>
+        <publishername>Secretariado Nacional de Liturgia</publishername>
+        <address><city>Fátima</city></address>
       </publisher>
+      <pubdate>2012</pubdate>
       <biblioid class="isbn">978-989-8293-22-0</biblioid>
       <pagenums>640</pagenums>
     </biblioentry>
@@ -945,22 +946,38 @@
 
     <biblioentry>
       <title>Canto Perene – I</title>
-      <subtitle>Adv. Nat., Quar., Páscoa</subtitle>
+      <subtitle>Advento, Natal, Quaresma, Páscoa</subtitle>
       <author><personname><surname>Ferreira dos Santos</surname><firstname>António</firstname></personname></author>
       <publisher>
-        <publishername></publishername>
-        <address><city></city></address>
+        <publishername>Secretariado Nacional de Liturgia</publishername>
+        <address><city>Fátima</city></address>
       </publisher>
       <biblioid class="isbn">972-8286-77-5</biblioid>
       <pagenums>656</pagenums>
+      <pubdate>2003</pubdate>
+      <abstract>
+	<para>
+	  Primeiro Volume com os esquemas das primeiras Vésperas, Laudes e segundas Vésperas e respectivos Cânticos evangélicos dos tempos do Natal, Advento, Quaresma e Páscoa.
+	</para>
+      </abstract>
     </biblioentry>
 
     <biblioentry>
       <title>Canto Perene – II</title>
       <subtitle>Tempo Comum – ofício dominical</subtitle>
       <author><personname><surname>Ferreira dos Santos</surname><firstname>António</firstname></personname></author>
+      <publisher>
+        <publishername>Secretariado Diocesano da Liturgia</publishername>
+        <address><city>Porto</city></address>
+      </publisher>
+      <pubdate>2003</pubdate>
       <biblioid class="isbn">972-8286-70-8</biblioid>
       <pagenums>480</pagenums>
+      <abstract>
+	<para>
+	  Este segundo volume Contém as Antífonas, Salmos e Cânticos das primeiras Vésperas, Laudes e segundas Vésperas e respectivos Cânticos evangélicos do Tempo Comum.
+	</para>
+      </abstract>
     </biblioentry>
 
     <biblioentry>
@@ -968,11 +985,71 @@
       <subtitle>Solenidades e festas do Senhor</subtitle>
       <author><personname><surname>Ferreira dos Santos</surname><firstname>António</firstname></personname></author>
       <publisher>
-        <publishername></publishername>
-        <address><city></city></address>
+        <publishername>Secretariado Nacional de Liturgia</publishername>
+        <address><city>Fátima</city></address>
       </publisher>
+      <pubdate>2003</pubdate>
       <biblioid class="isbn">978-972-8286-93-4</biblioid>
       <pagenums>512</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Cantoral nacional para a liturgia</title>
+      <publisher>
+        <publishername>Secretariado Nacional de Liturgia : Serviço Nacional de Música Sacra</publishername>
+        <address><city>Fátima</city></address>
+      </publisher>
+      <pubdate>2019</pubdate>
+      <biblioid class="isbn">978-989-8877-48-2</biblioid>
+      <pagenums>1449</pagenums>
+      <abstract>
+	<para>
+	  O primeiro Cantoral Nacional para a Liturgia, aprovado pela Conferência Episcopal Portuguesa e confirmado pela Congregação para o Culto Divino e a Disciplina dos Sacramentos, contém as seguintes partes:
+	  ...
+	  Hinos da Liturgia das Horas (para uso nas celebrações da Missa);
+	  ...
+	</para>
+      </abstract>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Tríduo Pascal</title>
+      <subtitle>Liturgia das Horas com canto</subtitle>
+      <publisher>
+        <publishername>Secretariado Nacional de Liturgia : Serviço Nacional de Música Sacra</publishername>
+        <address><city>Fátima</city></address>
+      </publisher>
+      <pubdate>2020</pubdate>
+      <biblioid class="isbn">978-989-8877-63-5</biblioid>
+      <pagenums>96</pagenums>
+      <abstract>
+	<para>
+	  Música: melodias de vários autores
+	</para>
+	<para>
+	  Este livro contém as melodias para o Ofício da Liturgia das Horas para Sexta-Feira da Paixão do Senhor, Sábado Santo e Domingo de Páscoa.
+	</para>
+      </abstract>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Vésperas da Quaresma</title>
+      <subtitle>Liturgia das Horas com canto</subtitle>
+      <publisher>
+        <publishername>Secretariado Nacional de Liturgia : Serviço Nacional de Música Sacra</publishername>
+        <address><city>Fátima</city></address>
+      </publisher>
+      <pubdate>2020</pubdate>
+      <biblioid class="isbn">978-989-8877-62-8</biblioid>
+      <pagenums>96</pagenums>
+      <abstract>
+	<para>
+	  Música: melodias de vários autores
+	</para>
+	<para>
+	  Este livro contém os Hinos, Antífonas, Salmodia, Responsório breve e Cântico evangélico para a Hora de Vésperas (I e II) dos Domingos da Quaresma (Domingo I ao Domingo de Ramos).
+	</para>
+      </abstract>
     </biblioentry>
   </bibliodiv>
 
