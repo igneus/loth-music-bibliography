@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<?xml-stylesheet type="text/xsl" href="grafika/dbbibliography.xsl"?>
+
+<bibliography xml:lang="en"
+              xmlns="http://docbook.org/ns/docbook"
+              xmlns:xl="http://www.w3.org/1999/xlink"
+              version="5.0">
+  <title>pre-Vatican II Vernacular Divine Office Chant</title>
+  <subtitle>International Bibliography</subtitle>
+
+  <bibliodiv>
+    <title>Czech</title>
+
+    <!--
+    <biblioentry>
+      <title></title>
+      <author><personname><surname></surname><firstname></firstname></personname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <pubdate></pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums></pagenums>
+    </biblioentry>
+    -->
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>German</title>
+
+    <!-- possibly monastic -->
+    <biblioentry>
+      <title>Deutsches Psalterium</title>
+      <subtitle>für die Sonntage und Wochentage des Kirchenjahres ; zum Singen eingerichtet</subtitle>
+      <publisher>
+        <publishername>Vier-Türme-Verlag</publishername>
+        <address><city>Münsterschwarzach</city></address>
+      </publisher>
+      <pubdate>1970</pubdate>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Vespern : für die Sonn- und Festtage ; Komplet</title>
+      <authorgroup>
+        <author><personname><surname>Fleischmann</surname><firstname>Hildebrand</firstname></personname></author>
+        <author><personname><surname>Rohr</surname><firstname>Heinrich</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Christophorus-Verlag</publishername>
+        <address><city>Freiburg im Breisgau</city></address>
+      </publisher>
+      <pubdate>1960</pubdate>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Die Magnifikat-Antiphonen der Sonntage</title>
+      <subtitle>ein Beiheft zu den Vespern für die Sonn- und Festtage</subtitle>
+      <authorgroup>
+        <author><personname><surname>Fleischmann</surname><firstname>Hildebrand</firstname></personname></author>
+        <author><personname><surname>Rohr</surname><firstname>Heinrich</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Christophorus-Verlag</publishername>
+        <address><city>Freiburg im Breisgau</city></address>
+      </publisher>
+      <edition>3</edition>
+      <pubdate>1965</pubdate>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Laudes</title>
+      <subtitle>für die Sonn- und Festtage mit den Benedictus-Antiphonen das Jahr hindurch</subtitle>
+      <subtitle>ein Beiheft zu den Vespern für die Sonn- und Festtage</subtitle>
+      <authorgroup>
+        <author><personname><surname>Fleischmann</surname><firstname>Hildebrand</firstname></personname></author>
+        <author><personname><surname>Rohr</surname><firstname>Heinrich</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Christophorus-Verlag</publishername>
+        <address><city>Freiburg im Breisgau</city></address>
+      </publisher>
+      <pubdate>1967</pubdate>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Gesänge für den Gottesdienst : Meßfeier, Mette, Vesper</title>
+      <author><personname><surname>Kahlefeld</surname><firstname>Heinrich</firstname></personname></author>
+      <publisher>
+        <publishername>Kösel</publishername>
+        <address><city>München</city></address>
+      </publisher>
+      <pubdate>1961-1962 (two tomes)</pubdate>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Kleines Antiphonale</title>
+      <subtitle>für Kantor, Schola, Volk</subtitle>
+      <author><personname><surname>Kronsteiner</surname><firstname>Hermann</firstname></personname></author>
+      <publisher>
+        <publishername>Veritas</publishername>
+        <address><city>Wien</city></address>
+      </publisher>
+      <pubdate>1962 or later</pubdate>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>English</title>
+  </bibliodiv>
+
+</bibliography>

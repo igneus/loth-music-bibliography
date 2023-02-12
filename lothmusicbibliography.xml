@@ -485,59 +485,6 @@
     </biblioentry>
 
     <biblioentry>
-      <title>Deutsches Psalterium</title>
-      <subtitle>für die Sonntage und Wochentage des Kirchenjahres ; zum Singen eingerichtet</subtitle>
-      <publisher>
-        <publishername>Vier-Türme-Verlag</publishername>
-        <address><city>Münsterschwarzach</city></address>
-      </publisher>
-      <pubdate>1970</pubdate>
-    </biblioentry>
-
-    <biblioentry>
-      <title>Vespern : für die Sonn- und Festtage ; Komplet</title>
-      <authorgroup>
-        <author><personname><surname>Fleischmann</surname><firstname>Hildebrand</firstname></personname></author>
-        <author><personname><surname>Rohr</surname><firstname>Heinrich</firstname></personname></author>
-      </authorgroup>
-      <publisher>
-        <publishername>Christophorus-Verlag</publishername>
-        <address><city>Freiburg im Breisgau</city></address>
-      </publisher>
-      <pubdate>1960</pubdate>
-    </biblioentry>
-
-    <biblioentry>
-      <title>Die Magnifikat-Antiphonen der Sonntage</title>
-      <subtitle>ein Beiheft zu den Vespern für die Sonn- und Festtage</subtitle>
-      <authorgroup>
-        <author><personname><surname>Fleischmann</surname><firstname>Hildebrand</firstname></personname></author>
-        <author><personname><surname>Rohr</surname><firstname>Heinrich</firstname></personname></author>
-      </authorgroup>
-      <publisher>
-        <publishername>Christophorus-Verlag</publishername>
-        <address><city>Freiburg im Breisgau</city></address>
-      </publisher>
-      <edition>3</edition>
-      <pubdate>1965</pubdate>
-    </biblioentry>
-
-    <biblioentry>
-      <title>Laudes</title>
-      <subtitle>für die Sonn- und Festtage mit den Benedictus-Antiphonen das Jahr hindurch</subtitle>
-      <subtitle>ein Beiheft zu den Vespern für die Sonn- und Festtage</subtitle>
-      <authorgroup>
-        <author><personname><surname>Fleischmann</surname><firstname>Hildebrand</firstname></personname></author>
-        <author><personname><surname>Rohr</surname><firstname>Heinrich</firstname></personname></author>
-      </authorgroup>
-      <publisher>
-        <publishername>Christophorus-Verlag</publishername>
-        <address><city>Freiburg im Breisgau</city></address>
-      </publisher>
-      <pubdate>1967</pubdate>
-    </biblioentry>
-
-    <biblioentry>
       <title>Franziskanisches Antiphonale</title>
       <subtitle>für die Ordensgemeinschaften des deutschen Sprachgebietes</subtitle>
       <author><orgname>Ordo Fratrum Minorum / Liturgische Kommission der Germanischen Zirkumskription des Minderbrüderordens</orgname></author>
@@ -546,27 +493,6 @@
         <address><city>Freiburg im Breisgau</city></address>
       </publisher>
       <pubdate>1988</pubdate>
-    </biblioentry>
-
-    <biblioentry>
-      <title>Gesänge für den Gottesdienst : Meßfeier, Mette, Vesper</title>
-      <author><personname><surname>Kahlefeld</surname><firstname>Heinrich</firstname></personname></author>
-      <publisher>
-        <publishername>Kösel</publishername>
-        <address><city>München</city></address>
-      </publisher>
-      <pubdate>1961-1962 (two tomes)</pubdate>
-    </biblioentry>
-
-    <biblioentry>
-      <title>Kleines Antiphonale</title>
-      <subtitle>für Kantor, Schola, Volk</subtitle>
-      <author><personname><surname>Kronsteiner</surname><firstname>Hermann</firstname></personname></author>
-      <publisher>
-        <publishername>Veritas</publishername>
-        <address><city>Wien</city></address>
-      </publisher>
-      <pubdate>1962 or later</pubdate>
     </biblioentry>
 
     <biblioentry>
