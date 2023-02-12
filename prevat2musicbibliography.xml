@@ -108,6 +108,59 @@
 
   <bibliodiv>
     <title>English</title>
+
+    <!-- monastic -->
+    <biblioentry>
+      <title>The Monastic Vesperal</title>
+      <subtitle>A Companion to the Monastic Diurnal Edited by the Monks of St. John's Abbey, Collegeville, Minnesota; Adapted from the Chant of the Monasticum Antiphonale</subtitle>
+      <author><orgname>The Sisters of St. Benedict, St. Scholastica's Convent</orgname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city>Fort Smith, AR</city></address>
+      </publisher>
+      <pubdate>1958</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>437</pagenums>
+    </biblioentry>
+  </bibliodiv>
+
+  <bibliodiv>
+    <title>Swedish</title>
+
+    <!-- confessional background uncertain, may be some kind of high church Lutheran liturgy
+    seen here https://www.ebay.com/itm/Det-Svenska-Antifonalet-Musiken-till-den-Svenska-Tidegarden-SWEDISH-ANTIPHONALE/323866472768-->
+    <biblioentry>
+      <title>Det svenska antifonalet I.</title>
+      <subtitle>Antifonale till veckans tideböner</subtitle>
+      <authorgroup>
+	<author><personname><surname>Adell</surname><firstname>Arthur</firstname></personname></author>
+	<author><personname><surname>Peters</surname><firstname>Knut</firstname></personname></author>
+	<author><personname><surname>Kyrkan</surname><firstname>Svenska</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>C. W. K. Gleerups Forlag</publishername>
+        <address><city>Lund</city></address>
+      </publisher>
+      <pubdate>1949</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>227</pagenums>
+    </biblioentry>
+    <biblioentry>
+      <title>Det svenska antifonalet II.</title>
+      <subtitle>Antifonale till kyrkoårets tideböner</subtitle>
+      <authorgroup>
+	<author><personname><surname>Adell</surname><firstname>Arthur</firstname></personname></author>
+	<author><personname><surname>Peters</surname><firstname>Knut</firstname></personname></author>
+	<author><personname><surname>Kyrkan</surname><firstname>Svenska</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>C. W. K. Gleerups Forlag</publishername>
+        <address><city>Lund</city></address>
+      </publisher>
+      <pubdate>1959</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>507</pagenums>
+    </biblioentry>
   </bibliodiv>
 
 </bibliography>
