@@ -556,6 +556,7 @@
 
     <biblioentry>
       <title>The Office of Compline</title>
+      <subtitle>Latin and English</subtitle>
       <author><personname>
         <surname>Weber</surname>
         <honorific>Fr.</honorific>
@@ -567,6 +568,9 @@
         <address><city>San Francisco</city></address>
       </publisher>
       <pubdate>2010</pubdate>
+      <biblioid class="isbn">158617455X</biblioid>
+      <biblioid class="isbn">9781586174552</biblioid>
+      <pagenums>133</pagenums>
     </biblioentry>
 
     <biblioentry>
