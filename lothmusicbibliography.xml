@@ -310,6 +310,17 @@
     <title>Polish</title>
 
     <biblioentry>
+      <title>Poranna liturgia godzin na Wielki Piątek i Wielką Sobotę</title>
+      <publisher>
+        <publishername>Prowincja Zgromadzenia Sióstr Uczennic Boskiego Mistrza</publishername>
+        <address><city>Warszawa</city></address>
+      </publisher>
+      <pubdate>2021</pubdate>
+      <biblioid class="isbn">979-0-9013392-1-7</biblioid>
+      <pagenums>64</pagenums>
+    </biblioentry>
+
+    <biblioentry>
       <title>Wybrane hymny na jutrznię i nieszpory</title>
       <publisher>
         <publishername>Siostry Uczennice Boskiego Mistrza</publishername>
@@ -322,20 +333,61 @@
     <biblioentry>
       <title>Wybór melodii do liturgii godzin</title>
       <subtitle>pomoce dla animatora muzycznego</subtitle>
-      <author><personname><surname>Maier</surname><firstname>Elzbieta</firstname></personname></author>
+      <author><personname><surname>Maier</surname><firstname>Elżbieta</firstname></personname></author>
       <publisher>
-        <publishername>Wydawnictwo Światło - Życie</publishername>
+        <publishername>Wydawnictwo Światło-Życie</publishername>
         <address><city>Kraków</city></address>
       </publisher>
       <pubdate>2010</pubdate>
+      <biblioid class="isbn">978-83-7535-033-3</biblioid>
+      <pagenums>24</pagenums>
     </biblioentry>
 
     <biblioentry>
-      <title>Liturgia Godzin na Triduum Paschalne</title>
+      <author><personname><surname>Skop</surname><firstname>Gizela</firstname></personname></author>
+      <title>Triduum Paschalne</title>
+      <subtitle>Liturgia Godzin</subtitle>
       <publisher>
         <publishername>Wydawnictwo Światło-Życie</publishername>
         <address><city>Kraków</city></address>
       </publisher>
+      <pubdate>2011</pubdate>
+      <biblioid class="isbn">978-83-7535-058-6</biblioid>
+      <pagenums>93</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Nieszpory niedzielne Okresu zwykłego z propozycjami melodii</title>
+      <author><orgname>Diecezjalna Komisja ds. Muzyki Kościelnej Kurii Diecezjalnej Siedleckiej</orgname></author>
+      <publisher>
+        <publishername>Diecezjalne Studium Muzyki Kościelnej w Siedlcach</publishername>
+        <address><city>Siedlce</city></address>
+      </publisher>
+      <pubdate>2006</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>42</pagenums>
+      <abstract>
+        <para>
+          Wydanie studyjne. Nakład 1000 egz.
+        </para>
+      </abstract>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Ciemna jutrznia</title>
+      <subtitle>Godzina czytań i jutrznia na Wielki Czwartek, Wielki Piątek i Wielką Sobotę</subtitle>
+      <authorgroup>
+        <author><personname><surname>Sinka</surname><firstname>Tarsycjusz</firstname></personname></author>
+        <author><personname><surname>Sorys</surname><firstname>Łukasz</firstname></personname></author>
+        <author><personname><surname>Węglarz</surname><firstname>Piotr</firstname></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>Wydawnictwo Instytutu Teologicznego Księży Marianów</publishername>
+        <address><city>Kraków</city></address>
+      </publisher>
+      <pubdate>2005</pubdate>
+      <biblioid class="isbn">83-7216-547-5</biblioid>
+      <pagenums>78</pagenums>
     </biblioentry>
 
     <biblioentry>
