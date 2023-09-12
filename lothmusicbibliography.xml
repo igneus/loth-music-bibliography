@@ -683,6 +683,18 @@
       <biblioid class="isbn"></biblioid>
       <pagenums></pagenums>
     </biblioentry>
+
+    <biblioentry>
+      <title>Dominican Prayer, Assembly Edition</title>
+      <subtitle>Morning and Evening Prayer with Daytime and Night Prayer</subtitle>
+      <publisher>
+        <publishername>Dominicans, Province of St. Albert the Great, U.S.A.</publishername>
+        <address><city>Chicago</city></address>
+      </publisher>
+      <pubdate>1994</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>1177</pagenums>
+    </biblioentry>
   </bibliodiv>
 
   <bibliodiv>
