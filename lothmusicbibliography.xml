@@ -870,6 +870,20 @@
       <pagenums>57</pagenums>
     </biblioentry>
 
+    <!-- In this case I don't have 100% certainty that the LOTH section is actually notated -->
+    <biblioentry>
+      <title>Alabad al señor</title>
+      <subtitle>liturgia de las Horas (selección, los cuatro domingos y semana I) : cantos para la celebración eucarística</subtitle>
+      <author><orgname>Conferencia Episcopal Española</orgname></author>
+      <publisher>
+        <publishername>Edice</publishername>
+        <address><city>Madrid</city></address>
+      </publisher>
+      <pubdate>1997</pubdate>
+      <biblioid class="isbn">847141371X</biblioid>
+      <pagenums>231</pagenums>
+    </biblioentry>
+
     <biblioentry>
       <title>Himnos de la liturgia de las horas</title>
       <subtitle>Musica y letra</subtitle>
