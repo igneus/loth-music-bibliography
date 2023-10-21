@@ -695,6 +695,33 @@
       <biblioid class="isbn"></biblioid>
       <pagenums>1177</pagenums>
     </biblioentry>
+
+    <biblioentry>
+      <title>Universal Music for Morning Prayer</title>
+      <authorgroup>
+        <author><personname><surname>Penkala</surname><firstname>Gary</firstname><othername>D.</othername></personname></author>
+        <author><personname><surname>Swain</surname><firstname>Joseph</firstname><othername>P.</othername></personname></author>
+      </authorgroup>
+      <publisher>
+        <publishername>CanticaNOVA Publications</publishername>
+        <address><city>Charles Town</city></address>
+      </publisher>
+      <pubdate></pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums></pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Universal Music for Evening Prayer</title>
+      <author><personname><surname>Penkala</surname><firstname>Gary</firstname><othername>D.</othername></personname></author>
+      <publisher>
+        <publishername>CanticaNOVA Publications</publishername>
+        <address><city>Charles Town</city></address>
+      </publisher>
+      <pubdate></pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums></pagenums>
+    </biblioentry>
   </bibliodiv>
 
   <bibliodiv>
