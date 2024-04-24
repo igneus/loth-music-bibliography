@@ -122,6 +122,18 @@
       <biblioid class="isbn"></biblioid>
       <pagenums>437</pagenums>
     </biblioentry>
+
+    <biblioentry>
+      <title>The Monastic Diurnal Noted</title>
+      <author><personname><surname></surname><firstname></firstname></personname></author>
+      <publisher>
+        <publishername></publishername>
+        <address><city></city></address>
+      </publisher>
+      <pubdate></pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums></pagenums>
+    </biblioentry>
   </bibliodiv>
 
   <bibliodiv>
