@@ -794,6 +794,129 @@
     <title>French</title>
 
     <biblioentry>
+      <title>Chant des heures et l'office des lectures</title>
+      <volumenum>1</volumenum>
+      <subtitle>Les Quatre semaines du temps ordinaire : psalmodies et antiennes pour la "liturgie des heures</subtitle>
+      <publisher>
+        <publishername>Association Saint-Ambroise</publishername>
+        <address><city>Moulins</city></address>
+      </publisher>
+      <pubdate>1977</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>234</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Chant des heures : psalmodies et antiennes pour la "Liturgie des heures : [à 1, 2 et 3 voix].</title>
+      <volumenum>1</volumenum>
+      <subtitle>Les Quatre semaines du temps ordinaire : complément : l'Office des lectures</subtitle>
+      <publisher>
+        <publishername>Association Saint-Ambroise</publishername>
+        <address><city>Moulins</city></address>
+      </publisher>
+      <pubdate>1981</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>217-234</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Chant des heures : psalmodies et antiennes pour la "Liturgie des heures : [à 1, 2 et 3 voix].</title>
+      <volumenum>1</volumenum>
+      <subtitle>Les Quatre semaines du temps ordinaire</subtitle>
+      <publisher>
+        <publishername>Association Saint-Ambroise</publishername>
+        <address><city>Moulins</city></address>
+      </publisher>
+      <edition>3</edition>
+      <pubdate>1982</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>234</pagenums>
+      <abstract>
+        <para>
+          Cette éd. est augmentée de l'Office des lectures, publié d'abord en encart de la 2e éd
+        </para>
+      </abstract>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Chant des heures : psalmodies et antiennes pour la "Liturgie des heures : [à 1, 2 et 3 voix].</title>
+      <volumenum>2</volumenum>
+      <subtitle>Le temps de l'Avent</subtitle>
+      <publisher>
+        <publishername>Association Saint-Ambroise</publishername>
+        <address><city>Moulins</city></address>
+      </publisher>
+      <pubdate>1987</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>127</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Chant des heures : psalmodies et antiennes pour la "Liturgie des heures : [à 1, 2 et 3 voix].</title>
+      <volumenum>3</volumenum>
+      <subtitle>Le temps de Noël</subtitle>
+      <publisher>
+        <publishername>Association Saint-Ambroise</publishername>
+        <address><city>Moulins</city></address>
+      </publisher>
+      <pubdate>1983</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>96</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Chant des heures : psalmodies et antiennes pour la "Liturgie des heures : [à 1, 2 et 3 voix].</title>
+      <volumenum>4</volumenum>
+      <subtitle>Carême, Semaine sainte</subtitle>
+      <publisher>
+        <publishername>Association Saint-Ambroise</publishername>
+        <address><city>Moulins</city></address>
+      </publisher>
+      <pubdate>1982</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>144</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Chant des heures : psalmodies et antiennes pour la "Liturgie des heures : [à 1, 2 et 3 voix].</title>
+      <volumenum>5</volumenum>
+      <subtitle>Temps pascal, Trinité, St-Sacrement, Sacré-Coeur, Christ-Roi</subtitle>
+      <publisher>
+        <publishername>Association Saint-Ambroise</publishername>
+        <address><city>Moulins</city></address>
+      </publisher>
+      <pubdate>1984</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>196</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Chant des heures : psalmodies et antiennes pour la "Liturgie des heures : [à 1, 2 et 3 voix].</title>
+      <volumenum>6</volumenum>
+      <subtitle>Sanctoral</subtitle>
+      <publisher>
+        <publishername>Association Saint-Ambroise</publishername>
+        <address><city>Moulins</city></address>
+      </publisher>
+      <pubdate>1985</pubdate>
+      <biblioid class="isbn"></biblioid>
+      <pagenums>184</pagenums>
+    </biblioentry>
+
+    <biblioentry>
+      <title>Acclamons en chantant</title>
+      <subtitle>Recueil de psalmodies de répons brefs laudes et vêpres</subtitle>
+      <author><personname><surname>Leclerc</surname><firstname>Raymonde</firstname></personname></author>
+      <publisher>
+        <publishername>Éditions Musicales Centre Pain et Vie</publishername>
+        <address><city>Montréal</city></address>
+      </publisher>
+      <pubdate>1986</pubdate>
+      <biblioid class="isbn">9782920837010</biblioid>
+      <pagenums>56</pagenums>
+    </biblioentry>
+
+    <biblioentry>
       <title>Le livre des Heures de Notre-Dame</title>
       <!-- publisher unknown <publisher>
         <publishername></publishername>
