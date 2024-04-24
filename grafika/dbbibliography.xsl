@@ -17,7 +17,7 @@
         <xsl:apply-templates select="db:bibliography/db:title"/>
         <xsl:apply-templates select="db:bibliography/db:subtitle"/>
         <p class="tac">
-          Know of a publication we are still missing?
+          Do you know a publication we are still missing?
           Please open an issue (or a PR) at
           <a href="https://github.com/igneus/loth-music-bibliography">Github</a>
           or send an e-mail to <a href="mailto:jkb.pavlik@gmail.com?subject=LOTH Music Bibliography">jkb.pavlik@gmail.com</a>.
