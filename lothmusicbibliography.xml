@@ -511,6 +511,17 @@
     </biblioentry>
 
     <biblioentry>
+      <title>Vesperale für die Gemeinde</title>
+      <publisher>
+        <publishername>Bischöfliches Ordinariat</publishername>
+        <address><city>Eichstätt</city></address>
+      </publisher>
+      <pubdate>1991</pubdate><!-- DNB catalogue: "c 1991", i.e. uncertain -->
+      <biblioid class="isbn"></biblioid>
+      <pagenums>272</pagenums>
+    </biblioentry>
+
+    <biblioentry>
       <title>Kleines Antiphonale zum Stundenbuch</title>
       <author><personname><surname>Rohr</surname><firstname>Heinrich</firstname></personname></author>
       <publisher>
