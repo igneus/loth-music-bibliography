@@ -103,6 +103,19 @@
     </biblioentry>
 
     <biblioentry>
+      <title>Ad completorium</title>
+      <subtitle>in dominicis et feriis totius anni
+iuxta “Liturgia Horarum”</subtitle>
+      <publisher>
+        <publishername>Calithes</publishername>
+        <address><city>Colfelice</city></address>
+      </publisher>
+      <pubdate>2023</pubdate>
+      <biblioid class="isbn">978-88-904779-0-4</biblioid>
+      <pagenums></pagenums>
+    </biblioentry>
+
+    <biblioentry>
       <title>Liber vesperalis</title>
       <subtitle>il canto dei vespri : inni, antifone e responsori brevi in canto gregoriano per tutte le domeniche e le feste dell'anno liturgico ; nel 14. centenario della elezione del Papa S. Gregorio Magno</subtitle>
       <author><personname><surname>Colino</surname><firstname>Pablo</firstname></personname></author>
